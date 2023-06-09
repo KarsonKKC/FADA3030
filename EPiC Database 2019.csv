@@ -1,0 +1,290 @@
+﻿,,Version: EPiC Database 2019,Functional unit,Embodied Energy (MJ),Embodied Water (L),Embodied Greenhouse Gas Emissions (kgCO₂e),
+,,"Citation: Crawford, R.H., Stephan, A. and Prideaux, F. (2019) Environmental Performance in Construction (EPiC) Database, The University of Melbourne, Melbourne.",,,,,
+,,Full database: https://doi.org/10.26188/5dc228ef98c5a,,,,,
+,,Further information: www.epicdatabase.com.au,,,,,
+,,License: Creative Commons (by-nc-nd),,,,,
+Category,Type,Material,,,,,More information
+Concrete and plaster products,Blocks,Concrete block,kg,2.60,3.7,0.24,http://doi.org/10.26188/5da552ea39cdc
+,,Concrete block - 390 × 190 × 90 mm,no.,24.30,34.2,2.2,http://doi.org/10.26188/5da552ea39cdc
+,,Concrete block - 390 × 190 × 140 mm,no.,29.60,41.6,2.7,http://doi.org/10.26188/5da552ea39cdc
+,,Concrete block - 390 × 190 × 190 mm,no.,35.20,49.4,3.2,http://doi.org/10.26188/5da552ea39cdc
+,Cement,Cement mortar,kg,3.90,3.7,0.35,http://doi.org/10.26188/5da5528f75432
+,,Portland cement,kg,11.80,7.8,1.3,http://doi.org/10.26188/5da55701cee5d
+,Concrete,Autoclaved aerated concrete (AAC),kg,8.50,8.4,0.71,http://doi.org/10.26188/5da551fc254d7
+,,AAC block - 600 × 200 × 100 mm,no.,56.40,55.4,4.7,http://doi.org/10.26188/5da551fc254d7
+,,AAC block - 600 × 200 × 150 mm,no.,84.50,83,7,http://doi.org/10.26188/5da551fc254d7
+,,AAC block - 600 × 200 × 200 mm,no.,113.00,111,9.4,http://doi.org/10.26188/5da551fc254d7
+,,Concrete 20 MPa,m³,2 404,4 154,328,http://doi.org/10.26188/5da54a205d0e5
+,,Concrete 20 MPa - 30% fly ash,m³,2 026,4 011,251,http://doi.org/10.26188/5da54a205d0e5
+,,Concrete 20 MPa - 30% GGBFS,m³,2 186,4 034,263,http://doi.org/10.26188/5da54a205d0e5
+,,Concrete 25 MPa,m³,2 581,4 196,361,http://doi.org/10.26188/5da54a4ae57a1
+,,Concrete 25 MPa - 30% fly ash,m³,2 241,4 028,277,http://doi.org/10.26188/5da54a4ae57a1
+,,Concrete 25 MPa - 30% GGBFS,m³,2 441,4 105,293,http://doi.org/10.26188/5da54a4ae57a1
+,,Concrete 32 MPa,m³,3 015,4 300,416,http://doi.org/10.26188/5da550538b369
+,,Concrete 32 MPa - 30% fly ash,m³,2 484,4 066,314,http://doi.org/10.26188/5da550538b369
+,,Concrete 32 MPa - 30% GGBFS,m³,2 704,4 103,331,http://doi.org/10.26188/5da550538b369
+,,Concrete 40 MPa,m³,3 476,4 355,497,http://doi.org/10.26188/5da5507e33fe6
+,,Concrete 40 MPa - 30% fly ash,m³,2 854,4 075,373,http://doi.org/10.26188/5da5507e33fe6
+,,Concrete 40 MPa - 30% GGBFS,m³,3 106,4 120,392,http://doi.org/10.26188/5da5507e33fe6
+,,Concrete 50 MPa,m³,3 998,4 365,600,http://doi.org/10.26188/5da5514c0eea5
+,,Concrete 50 MPa - 30% fly ash,m³,3 634,4 246,467,http://doi.org/10.26188/5da5514c0eea5
+,,Concrete 50 MPa - 30% GGBFS,m³,3 958,4 325,492,http://doi.org/10.26188/5da5514c0eea5
+,Fibre cement,Fibre cement weatherboard,kg,26,31.3,2.2,http://doi.org/10.26188/5da55463adae0
+,,FC weatherboard - 150 × 16 mm - per m² wall,m²,549,660,46.9,http://doi.org/10.26188/5da55463adae0
+,,FC weatherboard - 180 × 16 mm - per m² wall,m²,549,660,46.9,http://doi.org/10.26188/5da55463adae0
+,,FC weatherboard - 205 × 7.5 mm - per m² wall,m²,304,365,26,http://doi.org/10.26188/5da55463adae0
+,,FC weatherboard - 230 × 7.5 mm - per m² wall,m²,284,341,24.2,http://doi.org/10.26188/5da55463adae0
+,,FC weatherboard - 300 × 7.5 mm - per m² wall,m²,294,354,25.2,http://doi.org/10.26188/5da55463adae0
+,,Fibre cement sheet,kg,18.3,19.8,1.6,http://doi.org/10.26188/5da554545f280
+,,Fibre cement sheet - 4.5 mm,m²,119,129,10.2,http://doi.org/10.26188/5da554545f280
+,,Fibre cement sheet - 6 mm,m²,159,172,13.5,http://doi.org/10.26188/5da554545f280
+,,Fibre cement sheet - 7.5 mm,m²,198,214,16.9,http://doi.org/10.26188/5da554545f280
+,,Fibre cement sheet - 18 mm,m²,475,514,40.6,http://doi.org/10.26188/5da554545f280
+,,Fibre cement sheet - 24 mm,m²,634,686,54.2,http://doi.org/10.26188/5da554545f280
+,Plaster,Gypsum plaster,kg,6.5,6.5,0.44,http://doi.org/10.26188/5da554d7d6197
+,,Plasterboard - 10 mm,m²,86.1,85.6,5.8,http://doi.org/10.26188/5da556516b6e3
+,,Plasterboard - 13 mm,m²,95.7,97.9,6.5,http://doi.org/10.26188/5da556516b6e3
+,Tiles,Concrete roof tile,kg,4.3,5.7,0.39,http://doi.org/10.26188/5da552f96c488
+Glass,Flat glass,Double glazing - flat glass,m²,1 336,1 558,101,http://doi.org/10.26188/5da55375f3452
+,,"Double glazing - flat glass, 4:12:4",m²,1 336,1 558,101,http://doi.org/10.26188/5da55375f3452
+,,"Double glazing - flat glass, 6:6:6",m²,1 441,1 671,108,http://doi.org/10.26188/5da55375f3452
+,,"Double glazing - flat glass, 6:12:6",m²,1 441,1 671,108,http://doi.org/10.26188/5da55375f3452
+,,Flat glass,kg,28.5,32.2,2,http://doi.org/10.26188/5da554738e0e0
+,,Flat glass sheet - 3 mm,m²,222,251,15.7,http://doi.org/10.26188/5da554738e0e0
+,,Flat glass sheet - 4 mm,m²,296,335,21,http://doi.org/10.26188/5da554738e0e0
+,,Flat glass sheet - 5 mm,m²,370,418,26.2,http://doi.org/10.26188/5da554738e0e0
+,,Flat glass sheet - 6 mm,m²,444,502,31.4,http://doi.org/10.26188/5da554738e0e0
+,,Flat glass sheet - 10 mm,m²,740,837,52.4,http://doi.org/10.26188/5da554738e0e0
+,,Flat glass sheet - 12 mm,m²,888,1 004,62.9,http://doi.org/10.26188/5da554738e0e0
+,Laminated glass,Laminated glass,kg,36.4,59.7,2.8,http://doi.org/10.26188/5da5556225c38
+,,Laminated glass sheet - 6.38 mm,m²,604,991,46.8,http://doi.org/10.26188/5da5556225c38
+,,Laminated glass sheet - 8.38 mm,m²,794,1 302,61.4,http://doi.org/10.26188/5da5556225c38
+,,Laminated glass sheet - 10.38 mm,m²,983,1 613,76.1,http://doi.org/10.26188/5da5556225c38
+,,Laminated glass sheet - 12.38 mm,m²,1 172,1 923,90.7,http://doi.org/10.26188/5da5556225c38
+,Toughened glass,Double glazing - toughened glass,m²,1 536,1 772,115,http://doi.org/10.26188/5da553f3e04ff
+,,"Double glazing - toughened glass, 4:12:4",m²,1 536,1 772,115,http://doi.org/10.26188/5da553f3e04ff
+,,"Double glazing - toughened glass, 5:6:5",m²,1 635,1 879,122,http://doi.org/10.26188/5da553f3e04ff
+,,"Double glazing - toughened glass, 5:12:5",m²,1 635,1 879,122,http://doi.org/10.26188/5da553f3e04ff
+,,"Double glazing - toughened glass, 6:6:6",m²,1 729,1 980,128,http://doi.org/10.26188/5da553f3e04ff
+,,"Double glazing - toughened glass, 6:12:6",m²,1 729,1 980,128,http://doi.org/10.26188/5da553f3e04ff
+,,"Double glazing - toughened glass, 10:6:6",m²,2 254,2 543,165,http://doi.org/10.26188/5da553f3e04ff
+,,"Double glazing - toughened glass, 10:6:10",m²,2 779,3 107,202,http://doi.org/10.26188/5da553f3e04ff
+,,"Double glazing - toughened glass, 10:12:6",m²,2 254,2 543,165,http://doi.org/10.26188/5da553f3e04ff
+,,"Double glazing - toughened glass, 10:12:10",m²,2 779,3 107,202,http://doi.org/10.26188/5da553f3e04ff
+,,Toughened glass,kg,29.8,30.2,2.2,http://doi.org/10.26188/5da5589913df4
+,,Toughened glass sheet - 3 mm,m²,232,235,17.1,http://doi.org/10.26188/5da5589913df4
+,,Toughened glass sheet - 4 mm,m²,310,314,22.8,http://doi.org/10.26188/5da5589913df4
+,,Toughened glass sheet - 5 mm,m²,387,392,28.5,http://doi.org/10.26188/5da5589913df4
+,,Toughened glass sheet - 6 mm,m²,465,471,34.2,http://doi.org/10.26188/5da5589913df4
+,,Toughened glass sheet - 10 mm,m²,775,785,56.9,http://doi.org/10.26188/5da5589913df4
+,,Toughened glass sheet - 12 mm,m²,929,942,68.3,http://doi.org/10.26188/5da5589913df4
+Insulation,Cellulose,Cellulose insulation,kg,12.1,20.5,0.79,http://doi.org/10.26188/5da5528023cab
+,,Cellulose insulation - 80 mm (R2),m²,48.3,82.1,3.1,http://doi.org/10.26188/5da5528023cab
+,,Cellulose insulation - 100 mm (R2.5),m²,60.3,103,3.9,http://doi.org/10.26188/5da5528023cab
+,Other,Aluminium foil insulation,m²,25.7,33.8,1.9,http://doi.org/10.26188/5da551d0640fa
+,,Glasswool insulation,kg,57.5,40.7,4,http://doi.org/10.26188/5da55494afb75
+,,Glasswool insulation - 80 mm (R2),m²,115,81.4,8,http://doi.org/10.26188/5da55494afb75
+,,Glasswool insulation - 100 mm (R2.5),m²,144,102,10.1,http://doi.org/10.26188/5da55494afb75
+,,Rockwool insulation,kg,57.1,62.2,3.8,http://doi.org/10.26188/5da55737d3e5e
+,,Rockwool insulation - 80 mm (R2),m²,320,348,21.1,http://doi.org/10.26188/5da55737d3e5e
+,,Rockwool insulation - 100 mm (R2.5),m²,400,435,26.4,http://doi.org/10.26188/5da55737d3e5e
+,Polystyrene,Polystyrene (EPS/XPS) insulation,kg,155,841,8,http://doi.org/10.26188/5da556cc242c5
+,,EPS/XPS insulation - 72 mm (R2),m²,251,1 362,12.9,http://doi.org/10.26188/5da556cc242c5
+,,EPS/XPS insulation - 90 mm (R2.5),m²,314,1 703,16.2,http://doi.org/10.26188/5da556cc242c5
+,Polyurethane,Polyurethane (PU) rigid foam insulation,kg,293,690,17.5,http://doi.org/10.26188/5da556ef90771
+,,PU rigid foam insulation - 44 mm (R2),m²,387,911,23.1,http://doi.org/10.26188/5da556ef90771
+,,PU rigid foam insulation - 55 mm (R2.5),m²,484,1 138,28.8,http://doi.org/10.26188/5da556ef90771
+Metals,Aluminium,Aluminium bar,kg,345,219,29.6,http://doi.org/10.26188/5da5519635948
+,,Aluminium bar flat - 12 mm × 3mm,m,33.7,21.3,2.9,http://doi.org/10.26188/5da5519635948
+,,Aluminium bar flat - 40 mm × 3mm,m,112,71.2,9.6,http://doi.org/10.26188/5da5519635948
+,,Aluminium bar flat - 100 mm × 6mm,m,562,356,48.2,http://doi.org/10.26188/5da5519635948
+,,Aluminium bar round - 16 mm dia.,m,188,119,16.2,http://doi.org/10.26188/5da5519635948
+,,Aluminium bar round - 50 mm dia.,m,1 838,1 164,158,http://doi.org/10.26188/5da5519635948
+,,Aluminium bar round - 150 mm dia.,m,16 542,10 479,1 420,http://doi.org/10.26188/5da5519635948
+,,Aluminium composite panel,m²,1 196,1 174,102,http://doi.org/10.26188/5da551a4afce4
+,,Aluminium extruded,kg,358,182,29.4,http://doi.org/10.26188/5da551b3248d5
+,,Aluminium angle extruded,kg,383,244,32.7,http://doi.org/10.26188/5da551b3248d5
+,,Aluminium extruded powdercoated,kg,415,251,33.6,http://doi.org/10.26188/5da551b3248d5
+,,"Aluminium round tube - 25 mm dia., 3.2 mm thick",m,114,57.9,9.4,http://doi.org/10.26188/5da551b3248d5
+,,"Aluminium round tube - 60 mm dia., 10 mm thick",m,871,442,71.5,http://doi.org/10.26188/5da551b3248d5
+,,"Aluminium round tube - 80 mm dia., 6 mm thick",m,705,357,57.8,http://doi.org/10.26188/5da551b3248d5
+,,"Aluminium square tube - 20 × 20 mm, 1.6 mm thick",m,59.7,30.3,4.9,http://doi.org/10.26188/5da551b3248d5
+,,"Aluminium square tube - 40 × 40 mm, 2 mm thick",m,152,76.8,12.4,http://doi.org/10.26188/5da551b3248d5
+,,"Aluminium square tube - 100 × 100 mm, 3 mm thick",m,574,291,47.1,http://doi.org/10.26188/5da551b3248d5
+,,Aluminium sheet,kg,295,160,26.7,http://doi.org/10.26188/5da551dec2e47
+,,Aluminium sheet - 1.6 mm,m²,1 280,693,116,http://doi.org/10.26188/5da551dec2e47
+,,Aluminium sheet - 3 mm,m²,2 400,1 300,217,http://doi.org/10.26188/5da551dec2e47
+,,Aluminium sheet - 6 mm,m²,4 800,2 600,434,http://doi.org/10.26188/5da551dec2e47
+,Copper,Copper pipe,kg,150,289,10.1,http://doi.org/10.26188/5da55317e50fc
+,,"Copper pipe - 12.7 mm outer dia., 0.91 mm thick",m,45.1,87,3,http://doi.org/10.26188/5da55317e50fc
+,,"Copper pipe - 19.05 mm outer dia., 1.02 mm thick",m,77.3,149,5.2,http://doi.org/10.26188/5da55317e50fc
+,,"Copper pipe - 40 mm outer dia., 1.22 mm thick",m,199,384,13.4,http://doi.org/10.26188/5da55317e50fc
+,,Copper sheet,kg,226,389,15.1,http://doi.org/10.26188/5da55308b9bbe
+,,Copper sheet - 0.9 mm,m²,1 819,3 132,121,http://doi.org/10.26188/5da55308b9bbe
+,,Copper sheet - 1.2 mm,m²,2 426,4 175,162,http://doi.org/10.26188/5da55308b9bbe
+,,Copper sheet - 2 mm,m²,4 043,6 959,270,http://doi.org/10.26188/5da55308b9bbe
+,,Copper sheet - 3 mm,m²,6 064,10 438,405,http://doi.org/10.26188/5da55308b9bbe
+,,Copper wire,kg,671,897,41.8,http://doi.org/10.26188/5da553272580f
+,Stainless steel,Stainless steel wire,kg,226,253,13.9,http://doi.org/10.26188/5da5580349dda
+,,Bare wire - 2 mm dia.,m,5.5,6.2,0.34,http://doi.org/10.26188/5da5580349dda
+,,Bare wire - 3.2 mm dia.,m,14.1,15.8,0.87,http://doi.org/10.26188/5da5580349dda
+,,Wire Rope - 1.6 mm dia.,m,2.4,2.7,0.15,http://doi.org/10.26188/5da5580349dda
+,,Wire Rope - 4 mm dia.,m,14.2,15.9,0.87,http://doi.org/10.26188/5da5580349dda
+,,Wire Rope - 8 mm dia.,m,57.8,64.9,3.6,http://doi.org/10.26188/5da5580349dda
+,,Wire Rope - 12 mm dia.,m,127,143,7.8,http://doi.org/10.26188/5da5580349dda
+,,Cold rolled stainless steel,kg,123,168,9.2,http://doi.org/10.26188/5dd09ea396b11
+,,Stainless steel extruded,kg,155,138,11.8,http://doi.org/10.26188/5da557cc41ed8
+,,Stainless steel sheet,kg,97.6,140,7.2,http://doi.org/10.26188/5da557de9ee33
+,,Stainless steel sheet products,kg,238,263,14.7,http://doi.org/10.26188/5da557de9ee33
+,Steel,Cold rolled steel,kg,51.7,77.6,3.7,http://doi.org/10.26188/5da552dadce9f
+,,Hot rolled galvanised structural steel,kg,43,43.2,3.3,http://doi.org/10.26188/5da5554017f41
+,,Hot rolled structural steel,kg,38.8,37.1,2.9,http://doi.org/10.26188/5da55550a40e9
+,,Steel reinforcement bar - 6 mm dia.,m,8.6,8.2,0.64,http://doi.org/10.26188/5da55550a40e9
+,,Steel reinforcement bar - 8 mm dia.,m,15.3,14.6,1.1,http://doi.org/10.26188/5da55550a40e9
+,,Steel reinforcement bar - 12 mm dia.,m,34.5,32.9,2.6,http://doi.org/10.26188/5da55550a40e9
+,,Steel hollow section extruded,kg,54.8,45.2,4.6,http://doi.org/10.26188/5da558259be14
+,,"Square tube - 20 × 20 mm, 1.6 mm thick",m,55,45.4,4.6,http://doi.org/10.26188/5da558259be14
+,,"Square tube - 50 × 50 mm, 2 mm thick",m,172,142,14.5,http://doi.org/10.26188/5da558259be14
+,,"Square tube - 100 × 100 mm, 4 mm thick",m,688,568,57.8,http://doi.org/10.26188/5da558259be14
+,,Steel bar,kg,29.5,44.3,2.1,http://doi.org/10.26188/5da55814c051c
+,,Steel pipe,kg,42.9,78.1,3.5,http://doi.org/10.26188/5da5583906307
+,,"Steel pipe - 21.3 mm outer dia., 2.6 mm thick",m,51.4,93.7,4.2,http://doi.org/10.26188/5da5583906307
+,,"Steel pipe - 42.4 mm outer dia., 2.6 mm thick",m,110,199,9,http://doi.org/10.26188/5da5583906307
+,,"Steel pipe - 88.9 mm outer dia., 4 mm thick",m,359,654,29.6,http://doi.org/10.26188/5da5583906307
+,,"Steel pipe - 165.1 mm outer dia., 4.9 mm thick",m,831,1 512,68.5,http://doi.org/10.26188/5da5583906307
+,,Steel sheet corrugated,kg,79.6,73.4,5.5,http://doi.org/10.26188/5da5584b06f9b
+,,Steel sheet corrugated - pre-painted,m²,293,286,24.9,http://doi.org/10.26188/5da5584b06f9b
+,,Steel sheet corrugated - per square metre,m²,259.00,239,17.9,http://doi.org/10.26188/5da5584b06f9b
+Miscellaneous,Asphalt,Asphalt,kg,4.2,2.9,0.2,http://doi.org/10.26188/5da551ed753b9
+,Carpet,Nylon carpet,m²,465,1 149,31.2,http://doi.org/10.26188/5da5521a352db
+,,"Tufted carpet, nylon - prestige",m²,785,1 866,55.3,http://doi.org/10.26188/5da5521a352db
+,,"Tufted carpet, nylon - quality",m²,484,1 161,33.3,http://doi.org/10.26188/5da5521a352db
+,,"Woven carpet, nylon - average",m²,364,908,23.9,http://doi.org/10.26188/5da5521a352db
+,,"Woven carpet, nylon - quality",m²,376,911,24.8,http://doi.org/10.26188/5da5521a352db
+,,Wool carpet,m²,360,1 343,41,http://doi.org/10.26188/5da55236c5619
+,,"Tufted carpet, wool - prestige",m²,509,1 945,64.2,http://doi.org/10.26188/5da55236c5619
+,,"Tufted carpet, wool - quality",m²,407,1 545,49.1,http://doi.org/10.26188/5da55236c5619
+,Other,Silicone,kg,224,589,13.8,http://doi.org/10.26188/5da55771ca8cf
+,,Solar hot water system,no.,24 537,30 097,1 863,http://doi.org/10.26188/5da557a8720ed
+,,Water,kg,0.017,1,0.001,http://doi.org/10.26188/5da558d1e3aa6
+,,Wood glue (PVA),kg,106,171,5.4,http://doi.org/10.26188/5da558f73d913
+,Paint,Solvent-based paint,kg,124,197,6.3,http://doi.org/10.26188/5da557baa95ce
+,,Solvent-based paint - per m²,m²,9.3,14.7,0.47,http://doi.org/10.26188/5da557baa95ce
+,,Water-based paint,kg,111,206,6.8,http://doi.org/10.26188/5da558e47158f
+,,Water-based paint - per m²,m²,8.7,16.1,0.53,http://doi.org/10.26188/5da558e47158f
+,Paper,Wallpaper,kg,263,448,16,http://doi.org/10.26188/5da558bf3c7d7
+,,Wallpaper - per m²,m²,45.5,77.5,2.8,http://doi.org/10.26188/5da558bf3c7d7
+,Rubber,Natural rubber,kg,75.2,92.1,2.5,http://doi.org/10.26188/5da555f8c2b02
+,,Synthetic rubber,kg,92.8,111,3.7,http://doi.org/10.26188/5da558867e249
+Plastics,High density polyethylene (HDPE),High-density polyethylene (HDPE) film,kg,147,172,6.4,http://doi.org/10.26188/5da5551da9cb9
+,,HDPE film - 100 μm,m²,13.8,16.2,0.6,http://doi.org/10.26188/5da5551da9cb9
+,,HDPE film - 200 μm,m²,27.6,32.4,1.2,http://doi.org/10.26188/5da5551da9cb9
+,,High-density polyethylene (HDPE) pipe,kg,135,130,5.6,http://doi.org/10.26188/5da5552ee9ccf
+,,"HDPE pipe - 32 mm inner dia., 1.88 mm thickness",m,12.3,11.9,0.51,http://doi.org/10.26188/5da5552ee9ccf
+,,"HDPE pipe - 63 mm inner dia., 3.75 mm thickness",m,47.7,46.1,2,http://doi.org/10.26188/5da5552ee9ccf
+,,"HDPE pipe - 125 mm inner dia., 7.35 mm thickness",m,188,181,7.8,http://doi.org/10.26188/5da5552ee9ccf
+,,"HDPE pipe - 250 mm inner dia., 14.71 mm thickness",m,752,726,31,http://doi.org/10.26188/5da5552ee9ccf
+,,"HDPE pipe - 500 mm inner dia., 29.41 mm thickness",m,3 007,2 903,124,http://doi.org/10.26188/5da5552ee9ccf
+,,"HDPE pipe - 800 mm inner dia., 47.06 mm thickness",m,7 698,7 433,318,http://doi.org/10.26188/5da5552ee9ccf
+,Low density polyethylene (LDPE),Low-density polyethylene (LDPE) film,kg,136,122,6.4,http://doi.org/10.26188/5da55582e7c62
+,,LDPE film - 100 μm,m²,12.3,11.1,0.58,http://doi.org/10.26188/5da55582e7c62
+,,LDPE film - 200 μm,m²,24.7,22.2,1.2,http://doi.org/10.26188/5da55582e7c62
+,,Low-density polyethylene (LDPE) pipe,kg,130,89.6,6,http://doi.org/10.26188/5da5559330846
+,,"LDPE pipe - 13 mm inner dia., 3.95 mm thickness",m,11,7.6,0.51,http://doi.org/10.26188/5da5559330846
+,,"LDPE pipe - 19 mm inner dia., 4.4 mm thickness",m,17.3,11.9,0.8,http://doi.org/10.26188/5da5559330846
+,,"LDPE pipe - 25 mm inner dia., 5.2 mm thickness",m,26.6,18.4,1.2,http://doi.org/10.26188/5da5559330846
+,,"LDPE pipe - 32 mm inner dia., 6.7 mm thickness",m,43.9,30.3,2,http://doi.org/10.26188/5da5559330846
+,Nylon,Nylon 66,kg,335,910,22.2,http://doi.org/10.26188/5da55609d0f6f
+,,Nylon 66 sheet - 1.5 mm,m²,572,1 556,37.9,http://doi.org/10.26188/5da55609d0f6f
+,,Nylon 66 sheet - 3 mm,m²,1 145,3 113,75.8,http://doi.org/10.26188/5da55609d0f6f
+,,Nylon 66 sheet - 5 mm,m²,1 908,5 188,126,http://doi.org/10.26188/5da55609d0f6f
+,Other,Acrylonitrile butadiene styrene (ABS),kg,270,359,16,http://doi.org/10.26188/5da55178a8ecb
+,,ABS panel - 2mm,m²,577,767,34.3,http://doi.org/10.26188/5da55178a8ecb
+,,ABS panel - 3mm,m²,866,1 151,51.4,http://doi.org/10.26188/5da55178a8ecb
+,,"ABS pipe - 21.4 mm outer dia., 2.1 mm thick",m,36.8,48.9,2.2,http://doi.org/10.26188/5da55178a8ecb
+,,"ABS pipe - 48.3 mm outer dia., 3.6 mm thick",m,146,194,8.7,http://doi.org/10.26188/5da55178a8ecb
+,,"ABS pipe - 168.3 mm outer dia., 7.7 mm thick",m,1 122,1 491,66.6,http://doi.org/10.26188/5da55178a8ecb
+,,Ethylene tetrafluoroethylene (ETFE),kg,12 063,22 606,798,http://doi.org/10.26188/5da554446a581
+,,ETFE film - 25.4 μm (0.001”),m²,306,574,20.3,http://doi.org/10.26188/5da554446a581
+,,ETFE film - 50.8 μm (0.002”),m²,613,1 148,40.5,http://doi.org/10.26188/5da554446a581
+,,ETFE film - 127 μm (0.005”),m²,1 532,2 871,101,http://doi.org/10.26188/5da554446a581
+,,Glass reinforced plastic (GRP),kg,299,529,18.8,http://doi.org/10.26188/5da55484429d7
+,,GRP panel - 10 mm,m²,4 037,7 144,254,http://doi.org/10.26188/5da55484429d7
+,,GRP panel - 20 mm,m²,8 075,14 288,509,http://doi.org/10.26188/5da55484429d7
+,,GRP panel - 50 mm,m²,20 187,35 719,1 271,http://doi.org/10.26188/5da55484429d7
+,,Linoleum,kg,58.2,195,4.4,http://doi.org/10.26188/5da555a381ad3
+,,Linoleum sheet - 2 mm,m²,140,469,10.6,http://doi.org/10.26188/5da555a381ad3
+,,Linoleum sheet - 2.5 mm,m²,175,586,13.3,http://doi.org/10.26188/5da555a381ad3
+,,Linoleum sheet - 3.2 mm,m²,223,750,17,http://doi.org/10.26188/5da555a381ad3
+,,Linoleum sheet - 4 mm,m²,279,937,21.2,http://doi.org/10.26188/5da555a381ad3
+,,Polycarbonate,kg,190,265,14,http://doi.org/10.26188/5da556966a461
+,,Polycarbonate roofing sheet - 1 mm,m²,228,318,16.7,http://doi.org/10.26188/5da556966a461
+,,Polycarbonate roofing sheet - 2 mm,m²,457,635,33.5,http://doi.org/10.26188/5da556966a461
+,,Polycarbonate roofing sheet - 3 mm,m²,685,953,50.2,http://doi.org/10.26188/5da556966a461
+,,Polycarbonate roofing sheet - 6 mm,m²,1 371,1 905,100,http://doi.org/10.26188/5da556966a461
+,,Polymethyl methacrylate (PMMA),kg,230,215,15.4,http://doi.org/10.26188/5da556a82dd9d
+,,PMMA sheet - 3 mm,m²,822,768,54.9,http://doi.org/10.26188/5da556a82dd9d
+,,PMMA sheet - 4 mm,m²,1 096,1 023,73.2,http://doi.org/10.26188/5da556a82dd9d
+,,PMMA sheet - 5 mm,m²,1 370,1 279,91.4,http://doi.org/10.26188/5da556a82dd9d
+,,PMMA sheet - 6 mm,m²,1 644,1 535,110,http://doi.org/10.26188/5da556a82dd9d
+,,PMMA sheet - 8 mm,m²,2 192,2 047,146,http://doi.org/10.26188/5da556a82dd9d
+,,PMMA sheet - 10 mm,m²,2 740,2 558,183,http://doi.org/10.26188/5da556a82dd9d
+,Polypropylene,Polypropylene (PP) sheet,kg,159,186,7.4,http://doi.org/10.26188/5da556bad2165
+,,PP sheet - 2 mm,m²,287,335,13.4,http://doi.org/10.26188/5da556bad2165
+,,PP sheet - 3 mm,m²,431,502,20,http://doi.org/10.26188/5da556bad2165
+,,PP sheet - 4 mm,m²,574,670,26.7,http://doi.org/10.26188/5da556bad2165
+,,PP sheet - 6 mm,m²,861,1 005,40.1,http://doi.org/10.26188/5da556bad2165
+,,PP sheet - 10 mm,m²,1 435,1 675,66.8,http://doi.org/10.26188/5da556bad2165
+,,PP sheet - 12 mm,m²,1 722,2 010,80.2,http://doi.org/10.26188/5da556bad2165
+,,PP sheet - 15 mm,m²,2 153,2 512,100,http://doi.org/10.26188/5da556bad2165
+,Polyurethane,Polyurethane (PU) flexible foam,kg,127,443,7.7,http://doi.org/10.26188/5da556dde71cd
+,,"PU foam underlay - 7 mm, 64 kg/m³",m²,56.8,198,3.4,http://doi.org/10.26188/5da556dde71cd
+,,"PU foam underlay - 7 mm, 69 kg/m³",m²,61.4,214,3.7,http://doi.org/10.26188/5da556dde71cd
+,,"PU foam underlay - 10 mm, 73 kg/m³",m²,92.5,323,5.6,http://doi.org/10.26188/5da556dde71cd
+,,"PU foam underlay - 10 mm, 123 kg/m³",m²,156,543,9.4,http://doi.org/10.26188/5da556dde71cd
+,Polyvinyl chloride (PVC),Polyvinyl chloride (PVC) film,kg,190,758,11.2,http://doi.org/10.26188/5da5571457bf1
+,,PVC film - 19 μm,m²,5,20,0.3,http://doi.org/10.26188/5da5571457bf1
+,,PVC film - 25 μm,m²,6.6,26.3,0.39,http://doi.org/10.26188/5da5571457bf1
+,,Unplasticised polyvinyl chloride (uPVC),kg,76.3,561,4.2,http://doi.org/10.26188/5da558ad914dc
+,,"uPVC pipe - 21.35 mm outer dia., 1.8 mm thick",m,11.7,86.2,0.64,http://doi.org/10.26188/5da558ad914dc
+,,"uPVC pipe - 60.25 mm outer dia., 2.6 mm thick",m,50,367,2.7,http://doi.org/10.26188/5da558ad914dc
+,,"uPVC pipe - 114.3 mm outer dia., 4.85 mm thick",m,177,1 301,9.7,http://doi.org/10.26188/5da558ad914dc
+,,"uPVC pipe - 225.3 mm outer dia., 11.1 mm thick",m,792,5 826,43.2,http://doi.org/10.26188/5da558ad914dc
+"Sand, stone and ceramics",Brick,Clay brick,kg,3.5,1.8,0.32,http://doi.org/10.26188/5da552ad307a9
+,Other,Gravel,kg,0.49,1.9,0.036,http://doi.org/10.26188/5da554c7241e7
+,,Recycled aggregate,kg,0.11,0.1,0.008,http://doi.org/10.26188/5da557263ad43
+,,Sand,kg,0.34,1.8,0.024,http://doi.org/10.26188/5da5574945e6e
+,,Sanitary ceramic,kg,98,89.8,6.4,http://doi.org/10.26188/5da5575bb1595
+,Stone,Dimension stone,kg,16.3,16.5,1.3,http://doi.org/10.26188/5da553562c7fa
+,Tiles,Ceramic tile,kg,18.9,15.2,1.3,http://doi.org/10.26188/5da5529e3a6be
+,,Clay roof tile,kg,7.5,4.7,0.61,http://doi.org/10.26188/5da552bc24123
+Timber products,Cork,Cork slab,kg,179,199,9.5,http://doi.org/10.26188/5da55336dce12
+,,Cork slab - 6 mm,m²,129,143,6.8,http://doi.org/10.26188/5da55336dce12
+,,Cork slab - 10 mm,m²,215,238,11.4,http://doi.org/10.26188/5da55336dce12
+,,Cork slab - 12 mm,m²,258,286,13.6,http://doi.org/10.26188/5da55336dce12
+,,Cork slab - 20 mm,m²,430,477,22.7,http://doi.org/10.26188/5da55336dce12
+,,Cork slab - 50 mm,m²,1 074,1 192,56.8,http://doi.org/10.26188/5da55336dce12
+,Hardwood,Hardwood,m³,13 632,19 110,944,http://doi.org/10.26188/5da554ea370a5
+,,Hardwood kiln-dried - dressed,m³,41 597,58 411,2 269,http://doi.org/10.26188/5da554ea370a5
+,,Hardwood kiln-dried - structural,m³,19 389,25 332,1 178,http://doi.org/10.26188/5da554ea370a5
+,Manufactured timber product,Cross laminated timber (CLT),m³,9 607,8 608,645,http://doi.org/10.26188/5da55346af5dc
+,,CLT - 60 mm,m²,576,516,38.7,http://doi.org/10.26188/5da55346af5dc
+,,CLT - 105 mm,m²,1 009,904,67.7,http://doi.org/10.26188/5da55346af5dc
+,,CLT - 175 mm,m²,1 681,1 506,113,http://doi.org/10.26188/5da55346af5dc
+,,Glued laminated timber (glulam),m³,29 996,35 813,1 718,http://doi.org/10.26188/5da554a55f5a5
+,,Glulam outdoor,m³,28 279,31 246,1 605,http://doi.org/10.26188/5da554a55f5a5
+,,Laminated veneer lumber (LVL),m³,17 479,18 025,1 059,http://doi.org/10.26188/5da55571d9d31
+,,MDF sheet,m³,15 016,8 471,899,http://doi.org/10.26188/5da555b3e3bf9
+,,Melamine-coated MDF board - 16 mm,m²,344,283,18.7,http://doi.org/10.26188/5da555b3e3bf9
+,,Melamine-coated MDF board - 18 mm,m²,390,323,21.3,http://doi.org/10.26188/5da555b3e3bf9
+,,Melamine-coated MDF board - 25 mm,m²,557,453,30.5,http://doi.org/10.26188/5da555b3e3bf9
+,,OSB sheet,m³,14 422,17 997,751,http://doi.org/10.26188/5da5561c22195
+,,Particleboard,m³,12 717,10 720,696,http://doi.org/10.26188/5da5562dbfbf9
+,,Particleboard outdoor,m³,15 879,20 491,813,http://doi.org/10.26188/5da5562dbfbf9
+,,Plywood,m³,63 691,69 363,3 680,http://doi.org/10.26188/5da556748c57f
+,,Plywood outdoor,m³,26 790,23 083,1 777,http://doi.org/10.26188/5da556748c57f
+,,Structural insulated panel (SIP),m²,2 624,4 219,135,http://doi.org/10.26188/5da5586fec593
+,,SIP - 142 mm,m²,3 327,5 349,171,http://doi.org/10.26188/5da5586fec593
+,,SIP - 162 mm,m²,3 795,6 103,195,http://doi.org/10.26188/5da5586fec593
+,Softwood,Softwood,m³,9 392,13 091,549,http://doi.org/10.26188/5da5578416cc9
+,,Softwood kiln-dried,m³,9 704,13 181,583,http://doi.org/10.26188/5da5578416cc9
