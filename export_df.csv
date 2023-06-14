@@ -1,0 +1,514 @@
+Materials
+ Default 
+ Default Roof 
+ Phase-Demo 
+ Phase-Temp 
+ Default Light Source 
+ System-Zones 
+ Copper 
+" Polyvinyl Chloride, Rigid "
+" Steel, Carbon "
+ Phase-New 
+ Default Floor Area Face 
+ P1 
+ Timber Lining (Cox) 
+ Gabian (Cox) 
+ Plasterboard Impact (Cox) 
+ Generic Wall (Cox) 
+ Blockwork (Cox) 
+ Metal Stud (Cox) 
+ Air Gap (Cox) 
+ Fence Chainwire (Cox) 
+ Tiles 100 x 100 (Cox) 
+ Tiles 100 x 200 (Cox) 
+ Paint Matte Black (Cox) 
+ Plasterboard Acoustic Rated (Cox) 
+ Metal-Aluminium-Anodised-Clear 
+ Glass Clear Blue (Cox) 
+ GLCL1 
+ TMBR1 
+ Glass Clear White (Cox) 
+ Timber Flooring - 100mm Board 
+ Timber Flooring - Pattern 02 
+ Timber Flooring - Pattern 04 
+ Roofing - Lysaght Custom Orb 
+ Roofing - Lysaght Intergrity 
+ Roofing - Lysaght Longline 305 
+ Roofing - Lysaght Trimdek 
+ Roofing - Lysaght Panelrib 
+ Generic 
+ Steel 
+ Concrete - Cast In Situ 
+ Site - Earth (Cox) 
+ Render Material 255-255-255 
+ Acoustic Ceiling Tile 24 x 48 
+" Acrylic, Clear "
+ Aluminum 
+ Aluminum 1100-O 
+ Aluminum 3003-H12 
+" Aluminum, Anodized Blue "
+" Aluminum, Anodized Red "
+ Ash 
+" Asphalt, Bitumen "
+" Asphalt, Pavement, Dark Grey "
+ Bamboo 
+ Birch - Glossy 
+ Blue Stone 
+" Brick, Adobe "
+" Brick, Common, Brown "
+" Brick, Common, Red "
+" Brick, Dark Blend, Soldier "
+" Brick, Engineering, Soldier Course "
+" Brick, Light Blend, Running "
+" Brick, Modular "
+" Brick, Pavers "
+" Brick, Soldier Course "
+ Bronze 
+ Canvas 
+ Carpet 
+" Carpet, Berber, Grey Pattern "
+" Carpet, Berber, Light Grey "
+" Carpet, Berber, Tan Pattern "
+" Carpet, Cut Pile, Tan Pattern "
+" Carpet, Loop Pile, White "
+ Ceiling Tile 600 x 1200 
+ Cellulose Fill 
+ CFRP 
+" Cladding, Vertical Ribbed "
+" CMU, Perlite Filled "
+" CMU, Split Face "
+" Concrete Masonry, Floor Block "
+" Concrete, Block pattern formwork "
+" Concrete, Broom Finish "
+" Concrete, C16/20 "
+" Concrete, C25/30 "
+" Concrete, C35/45 "
+" Concrete, C45/55 "
+" Concrete, C70/85 "
+" Concrete, C90/105 "
+" Concrete, Cast in Situ, Lightweight "
+" Concrete, Cast-in-Place - C15 "
+" Concrete, Cast-in-Place - C25 "
+" Concrete, Cast-in-Place - C35 "
+" Concrete, Cast-in-Place - C45 "
+" Concrete, Cast-in-Place - C7_5 "
+" Concrete, Exposed Aggregate "
+" Concrete, Lightweight "
+" Concrete, Lightweight, 40 "
+" Concrete, Lightweight, 50 "
+" Concrete, Normal Weight, 4 ksi "
+" Concrete, Plywood formwork "
+" Concrete, Precast Panels "
+" Concrete, Precast Smooth, Light Grey, Wall Height "
+" Concrete, Walkway "
+ Cork Tiles 
+" Door, Glazing "
+ Earth 
+ Epoxy Resin 
+ Fabric 
+ Fieldstone 
+ GFRP 
+ Glass Fiber Reinforced Gypsum 
+" Glass, Bronze Glazing, Low E "
+" Glass, Cast, Gray "
+" Glass, Clear Glazing, Low E "
+" Glass, Green "
+ Glue-Laminated Timber 
+ Glulam 24h 
+ Glulam 28h 
+ Glulam 32h 
+ Glulam 36h 
+" Granite, Cut, Polished "
+ Grass 
+ Gypsum Wall Board 
+" Iron, Cast "
+ Jarrah 
+" Laminate, Black "
+" Laminate, Ivory, Matte "
+" Laminate, Navy "
+" Laminate, White "
+ Laminated Veneer Lumber 
+ Lead 
+ Limestone 
+" Linen, White "
+ Mahogany 
+ Maple - Glossy 
+ Marble 
+ MDF Medium Density Fiberboard 
+ Metal Deck 
+ Metal Furring 
+ Metal Roofing 
+ Metal Trim 
+" Metal, Powder Coated, White "
+" Metal, Sheeting Rails "
+" Mulch, Black "
+" Mulch, Brown Mix "
+ Nylon 6 
+" Oak, Red "
+ Oriented Strand Board 
+ Palladium 
+ Particleboard 
+ Pea Stone - Grey 
+ Phenolic Resin 
+" Pine, Radiata "
+" Pine, Southern "
+ Plaster 
+" Plastic, Formed "
+" Plastic, Opaque Black "
+" Plastic, Transparent "
+" Plywood, Maple, Finish Grade, Unfinished "
+" Plywood, Sheathing "
+" Plywood, Side, 7 Ply "
+" Polyethylene, High Density "
+ Polyisocyanate 
+ Polypropylene 
+" Polystyrene, High Impact "
+ Polyurethane Foam 
+" Porcelain, Ivory "
+" PVC, Flexible "
+" Rebar, ASTM A615, Grade 40 "
+" Rebar, ASTM A615, Grade 75 "
+ Redwood 
+" Render, Beige, Smooth "
+" Render, Tan, Textured "
+ Rock Wool 
+ Roofing Felt 
+" Roofing, Metal "
+" Roofing, Standing Seam "
+" Rubber, Black "
+" Rubber, Natural "
+ Rubble 
+ Semi-rigid insulation 
+" Siding, Clapboard "
+" Slab, Screed "
+" Softwood, Finish "
+ Solid Surface Countertop 
+ Spruce 
+" Stainless Steel, Brushed "
+ Steel AISI 1015 
+ Steel ASTM A242 
+" Steel ASTM A500, Grade B, Rectangular and Square "
+" Steel ASTM A500, Grade C, Rectangular and Square "
+ Steel ASTM A53 
+ Steel ASTM A913 
+ Steel Purlins 
+" Steel, 43-265 "
+" Steel, 43-355 "
+" Steel, 50-325 "
+" Steel, 50-355 "
+" Steel, 55-415 "
+" Steel, 55-450 "
+" Steel, Galvanized "
+" Steel, Paint Finish, Blue "
+" Steel, Paint Finish, Dark Gray, Matte "
+" Steel, Paint Finish, Ivory, Matte "
+" Steel, Polished "
+" Steel, S 275 "
+" Steel, S 460 "
+" Stone, Natural Soldier "
+" Structure, Precast Concrete Beams "
+" Structure, Timber Joist/Rafter Layer "
+" Structure, Wood Joist/Rafter Layer "
+" Structure, Wood Truss Joist/Rafter Layer "
+ Terrazzo 
+" Tile, Porcelain, 4in "
+" Tile, Quarry "
+" Tile, Structural "
+ Tiles 25 x 25 
+" Timber, C24 "
+ Travertine 
+ Ultralam X LVL 
+ Vapour Retarder 
+ Vinyl Composition Tile 
+" Wall Texture, Orange Peel "
+" Wall Texture, Stucco, Coarse "
+" Wall Texture, Stucco, Stipple "
+ Water 
+ Wood Flooring 
+ Wood Shake 
+ Zinc 
+Plasterboard (Cox)
+Concrete block
+Concrete block - 390 ?? 190 ?? 90 mm
+Concrete block - 390 ?? 190 ?? 140 mm
+Concrete block - 390 ?? 190 ?? 190 mm
+Cement mortar
+Portland cement
+Autoclaved aerated concrete (AAC)
+AAC block - 600 ?? 200 ?? 100 mm
+AAC block - 600 ?? 200 ?? 150 mm
+AAC block - 600 ?? 200 ?? 200 mm
+Concrete 20 MPa
+Concrete 20 MPa - 30% fly ash
+Concrete 20 MPa - 30% GGBFS
+Concrete 25 MPa
+Concrete 25 MPa - 30% fly ash
+Concrete 25 MPa - 30% GGBFS
+Concrete 32 MPa
+Concrete 32 MPa - 30% fly ash
+Concrete 32 MPa - 30% GGBFS
+Concrete 40 MPa
+Concrete 40 MPa - 30% fly ash
+Concrete 40 MPa - 30% GGBFS
+Concrete 50 MPa
+Concrete 50 MPa - 30% fly ash
+Concrete 50 MPa - 30% GGBFS
+Fibre cement weatherboard
+FC weatherboard - 150 ?? 16 mm - per m?? wall
+FC weatherboard - 180 ?? 16 mm - per m?? wall
+FC weatherboard - 205 ?? 7.5 mm - per m?? wall
+FC weatherboard - 230 ?? 7.5 mm - per m?? wall
+FC weatherboard - 300 ?? 7.5 mm - per m?? wall
+Fibre cement sheet
+Fibre cement sheet - 4.5 mm
+Fibre cement sheet - 6 mm
+Fibre cement sheet - 7.5 mm
+Fibre cement sheet - 18 mm
+Fibre cement sheet - 24 mm
+Gypsum plaster
+Plasterboard - 10 mm
+Plasterboard - 13 mm
+Concrete roof tile
+Double glazing - flat glass
+"Double glazing - flat glass, 4:12:4"
+"Double glazing - flat glass, 6:6:6"
+"Double glazing - flat glass, 6:12:6"
+Flat glass
+Flat glass sheet - 3 mm
+Flat glass sheet - 4 mm
+Flat glass sheet - 5 mm
+Flat glass sheet - 6 mm
+Flat glass sheet - 10 mm
+Flat glass sheet - 12 mm
+Laminated glass
+Laminated glass sheet - 6.38 mm
+Laminated glass sheet - 8.38 mm
+Laminated glass sheet - 10.38 mm
+Laminated glass sheet - 12.38 mm
+Double glazing - toughened glass
+"Double glazing - toughened glass, 4:12:4"
+"Double glazing - toughened glass, 5:6:5"
+"Double glazing - toughened glass, 5:12:5"
+"Double glazing - toughened glass, 6:6:6"
+"Double glazing - toughened glass, 6:12:6"
+"Double glazing - toughened glass, 10:6:6"
+"Double glazing - toughened glass, 10:6:10"
+"Double glazing - toughened glass, 10:12:6"
+"Double glazing - toughened glass, 10:12:10"
+Toughened glass
+Toughened glass sheet - 3 mm
+Toughened glass sheet - 4 mm
+Toughened glass sheet - 5 mm
+Toughened glass sheet - 6 mm
+Toughened glass sheet - 10 mm
+Toughened glass sheet - 12 mm
+Cellulose insulation
+Cellulose insulation - 80 mm (R2)
+Cellulose insulation - 100 mm (R2.5)
+Aluminium foil insulation
+Glasswool insulation
+Glasswool insulation - 80 mm (R2)
+Glasswool insulation - 100 mm (R2.5)
+Rockwool insulation
+Rockwool insulation - 80 mm (R2)
+Rockwool insulation - 100 mm (R2.5)
+Polystyrene (EPS/XPS) insulation
+EPS/XPS insulation - 72 mm (R2)
+EPS/XPS insulation - 90 mm (R2.5)
+Polyurethane (PU) rigid foam insulation
+PU rigid foam insulation - 44 mm (R2)
+PU rigid foam insulation - 55 mm (R2.5)
+Aluminium bar
+Aluminium bar flat - 12 mm ?? 3mm
+Aluminium bar flat - 40 mm ?? 3mm
+Aluminium bar flat - 100 mm ?? 6mm
+Aluminium bar round - 16 mm dia.
+Aluminium bar round - 50 mm dia.
+Aluminium bar round - 150 mm dia.
+Aluminium composite panel
+Aluminium extruded
+Aluminium angle extruded
+Aluminium extruded powdercoated
+"Aluminium round tube - 25 mm dia., 3.2 mm thick"
+"Aluminium round tube - 60 mm dia., 10 mm thick"
+"Aluminium round tube - 80 mm dia., 6 mm thick"
+"Aluminium square tube - 20 ?? 20 mm, 1.6 mm thick"
+"Aluminium square tube - 40 ?? 40 mm, 2 mm thick"
+"Aluminium square tube - 100 ?? 100 mm, 3 mm thick"
+Aluminium sheet
+Aluminium sheet - 1.6 mm
+Aluminium sheet - 3 mm
+Aluminium sheet - 6 mm
+Copper pipe
+"Copper pipe - 12.7 mm outer dia., 0.91 mm thick"
+"Copper pipe - 19.05 mm outer dia., 1.02 mm thick"
+"Copper pipe - 40 mm outer dia., 1.22 mm thick"
+Copper sheet
+Copper sheet - 0.9 mm
+Copper sheet - 1.2 mm
+Copper sheet - 2 mm
+Copper sheet - 3 mm
+Copper wire
+Stainless steel wire
+Bare wire - 2 mm dia.
+Bare wire - 3.2 mm dia.
+Wire Rope - 1.6 mm dia.
+Wire Rope - 4 mm dia.
+Wire Rope - 8 mm dia.
+Wire Rope - 12 mm dia.
+Cold rolled stainless steel
+Stainless steel extruded
+Stainless steel sheet
+Stainless steel sheet products
+Cold rolled steel
+Hot rolled galvanised structural steel
+Hot rolled structural steel
+Steel reinforcement bar - 6 mm dia.
+Steel reinforcement bar - 8 mm dia.
+Steel reinforcement bar - 12 mm dia.
+Steel hollow section extruded
+"Square tube - 20 ?? 20 mm, 1.6 mm thick"
+"Square tube - 50 ?? 50 mm, 2 mm thick"
+"Square tube - 100 ?? 100 mm, 4 mm thick"
+Steel bar
+Steel pipe
+"Steel pipe - 21.3 mm outer dia., 2.6 mm thick"
+"Steel pipe - 42.4 mm outer dia., 2.6 mm thick"
+"Steel pipe - 88.9 mm outer dia., 4 mm thick"
+"Steel pipe - 165.1 mm outer dia., 4.9 mm thick"
+Steel sheet corrugated
+Steel sheet corrugated - pre-painted
+Steel sheet corrugated - per square metre
+Asphalt
+Nylon carpet
+"Tufted carpet, nylon - prestige"
+"Tufted carpet, nylon - quality"
+"Woven carpet, nylon - average"
+"Woven carpet, nylon - quality"
+Wool carpet
+"Tufted carpet, wool - prestige"
+"Tufted carpet, wool - quality"
+Silicone
+Solar hot water system
+Water
+Wood glue (PVA)
+Solvent-based paint
+Solvent-based paint - per m??
+Water-based paint
+Water-based paint - per m??
+Wallpaper
+Wallpaper - per m??
+Natural rubber
+Synthetic rubber
+High-density polyethylene (HDPE) film
+HDPE film - 100 ??m
+HDPE film - 200 ??m
+High-density polyethylene (HDPE) pipe
+"HDPE pipe - 32 mm inner dia., 1.88 mm thickness"
+"HDPE pipe - 63 mm inner dia., 3.75 mm thickness"
+"HDPE pipe - 125 mm inner dia., 7.35 mm thickness"
+"HDPE pipe - 250 mm inner dia., 14.71 mm thickness"
+"HDPE pipe - 500 mm inner dia., 29.41 mm thickness"
+"HDPE pipe - 800 mm inner dia., 47.06 mm thickness"
+Low-density polyethylene (LDPE) film
+LDPE film - 100 ??m
+LDPE film - 200 ??m
+Low-density polyethylene (LDPE) pipe
+"LDPE pipe - 13 mm inner dia., 3.95 mm thickness"
+"LDPE pipe - 19 mm inner dia., 4.4 mm thickness"
+"LDPE pipe - 25 mm inner dia., 5.2 mm thickness"
+"LDPE pipe - 32 mm inner dia., 6.7 mm thickness"
+Nylon 66
+Nylon 66 sheet - 1.5 mm
+Nylon 66 sheet - 3 mm
+Nylon 66 sheet - 5 mm
+Acrylonitrile butadiene styrene (ABS)
+ABS panel - 2mm
+ABS panel - 3mm
+"ABS pipe - 21.4 mm outer dia., 2.1 mm thick"
+"ABS pipe - 48.3 mm outer dia., 3.6 mm thick"
+"ABS pipe - 168.3 mm outer dia., 7.7 mm thick"
+Ethylene tetrafluoroethylene (ETFE)
+ETFE film - 25.4 ??m (0.001?€?)
+ETFE film - 50.8 ??m (0.002?€?)
+ETFE film - 127 ??m (0.005?€?)
+Glass reinforced plastic (GRP)
+GRP panel - 10 mm
+GRP panel - 20 mm
+GRP panel - 50 mm
+Linoleum
+Linoleum sheet - 2 mm
+Linoleum sheet - 2.5 mm
+Linoleum sheet - 3.2 mm
+Linoleum sheet - 4 mm
+Polycarbonate
+Polycarbonate roofing sheet - 1 mm
+Polycarbonate roofing sheet - 2 mm
+Polycarbonate roofing sheet - 3 mm
+Polycarbonate roofing sheet - 6 mm
+Polymethyl methacrylate (PMMA)
+PMMA sheet - 3 mm
+PMMA sheet - 4 mm
+PMMA sheet - 5 mm
+PMMA sheet - 6 mm
+PMMA sheet - 8 mm
+PMMA sheet - 10 mm
+Polypropylene (PP) sheet
+PP sheet - 2 mm
+PP sheet - 3 mm
+PP sheet - 4 mm
+PP sheet - 6 mm
+PP sheet - 10 mm
+PP sheet - 12 mm
+PP sheet - 15 mm
+Polyurethane (PU) flexible foam
+"PU foam underlay - 7 mm, 64 kg/m??"
+"PU foam underlay - 7 mm, 69 kg/m??"
+"PU foam underlay - 10 mm, 73 kg/m??"
+"PU foam underlay - 10 mm, 123 kg/m??"
+Polyvinyl chloride (PVC) film
+PVC film - 19 ??m
+PVC film - 25 ??m
+Unplasticised polyvinyl chloride (uPVC)
+"uPVC pipe - 21.35 mm outer dia., 1.8 mm thick"
+"uPVC pipe - 60.25 mm outer dia., 2.6 mm thick"
+"uPVC pipe - 114.3 mm outer dia., 4.85 mm thick"
+"uPVC pipe - 225.3 mm outer dia., 11.1 mm thick"
+Clay brick
+Gravel
+Recycled aggregate
+Sand
+Sanitary ceramic
+Dimension stone
+Ceramic tile
+Clay roof tile
+Cork slab
+Cork slab - 6 mm
+Cork slab - 10 mm
+Cork slab - 12 mm
+Cork slab - 20 mm
+Cork slab - 50 mm
+Hardwood
+Hardwood kiln-dried - dressed
+Hardwood kiln-dried - structural
+Cross laminated timber (CLT)
+CLT - 60 mm
+CLT - 105 mm
+CLT - 175 mm
+Glued laminated timber (glulam)
+Glulam outdoor
+Laminated veneer lumber (LVL)
+MDF sheet
+Melamine-coated MDF board - 16 mm
+Melamine-coated MDF board - 18 mm
+Melamine-coated MDF board - 25 mm
+OSB sheet
+Particleboard
+Particleboard outdoor
+Plywood
+Plywood outdoor
+Structural insulated panel (SIP)
+SIP - 142 mm
+SIP - 162 mm
+Softwood
+Softwood kiln-dried
