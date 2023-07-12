@@ -1,0 +1,399 @@
+﻿Material,Category,Unit,Embodied Carbon,Density,Common use,Comment,
+Concrete block,"Concrete and plaster products
+Concrtete and Plaster Products",kg,0.24,1400,"External walls, internal walls,landscaping","Concrete blocks (also known as concrete masonry units or CMU)
+are precast rectangular shaped blocks manufactured from concrete. Blocks are typically used for internal and external walls in both
+domestic and commercial construction and can be used with or
+without mortar for loadbearing and non-loadbearing applications.",
+Cement mortar,Concrete and Plaster Products,kg,0.35,1858,"Bonding masonry walls, pointing, render","Cement mortar contains Portland cement, sand and hydrated lime. It is used as a bonding layer for bricks, masonry blocks and stonework.",
+Portland cement,Concrete and Plaster Products,kg,1.3,1500,"Concrete, fibre cement sheet, fibre
+cement weatherboard, cement
+mortar, cement render","Portland cement (also known as common or general-purpose
+cement) is manufactured from limestone, clay and gypsum. A range
+of additional minerals or additives can be added to control the
+properties of the finished cement.",
+Autoclaved aerated concrete (AAC),Concrete and Plaster Products,kg,0.71,550,"External walls, internal walls, floors","Autoclaved Aerated Concrete, also known as AAC, is a lightweight
+concrete product manufactured from cement, water, aluminium
+powder and sand. Hydrogen gas is used to create air bubbles in the
+mix. AAC is generally rated at 8 MPa, with up to 80% of its volume
+made up of air",
+Concrete 20 Mpa,Concrete and Plaster Products,m³,328,,"Floor slabs, suspended slabs,
+driveways, precast wall panels","Concrete is one of the most commonly used construction materials.
+It is highly durable and is thus typically used for structural elements in
+buildings and infrastructure projects. Concrete can be manufactured
+to meet a variety of strength grades. Concrete 20 MPa is commonly
+used in domestic floor construction, garage floors and driveways,
+where the loads supported are lighter. ",
+Concrete 25 MPa,Concrete and Plaster Products,m³,361,,"Floor slabs, suspended slabs,
+driveways, precast wall panels","Concrete 25 MPa is commonly
+used in domestic and commercial floor construction and is
+considered to be a multi-purpose concrete mix. ",
+Concrete 32 MPa,Concrete and Plaster Products,m³,416,,"Floor slabs, suspended slabs,
+precast wall panels, in situ
+loadbearing walls, structural piling,
+roads, footpaths","Concrete 32 MPa is commonly
+used in commercial and civil construction, for structural piling, floor
+slabs, external walls, paths and roads, where increased durability,
+weather-resistance and load-bearing capacity are required",
+Concrete 40 MPa,Concrete and Plaster Products,m³,497,,"Structural beams, structural
+columns, in situ loadbearing walls,
+structural piling","Concrete 40 MPa is commonly
+used in commercial and civil construction, for structural beams and
+columns, where increased durability and load-bearing capacity are
+required",
+Concrete 50 MPa,Concrete and Plaster Products,m³,600,,"Structural beams, structural
+columns, in situ loadbearing walls,
+structural piling","Concrete 50 MPa is commonly
+used in commercial and civil construction where high strength and
+durability are required. The mix will generally have a lower water to
+cement ratio than standard concrete.",
+Fibre cement weatherboard,Fibre cement,kg,2.2,1445,External wall cladding,"Fibre cement weatherboards are used as an external wall cladding.
+Each board is installed to overlap the board below, and as such, the
+effective wall coverage area is typically 80-90% of the actual area of
+boards used",
+Fibre cement sheet,Fibre cement,kg,1.6,1445,"Internal wall lining, external wall
+cladding, soffit lining, structural
+bracing","Fibre cement sheet is often used as a replacement for plasterboard,
+particularly in situations that are exposed to water (such as wet
+areas). It can be used for both residential and commercial buildings
+in a range of applications, including internal and external cladding,
+soffit linings and structural bracing.",
+Gypsum plaster,Plaster,kg,0.44,1956,"Decorative building elements,
+plasterboard, plaster cornices, filling
+gaps, wall finish","Gypsum plaster is often used to simulate other materials, such as
+timber, metal and stone, due to its ability to be formed into any shape,
+which can be easily sanded. It is also a core material for plasterboard
+and other plaster-based products, such as cornices. Alternative forms
+of plaster include lime and cement-based plasters",
+Plasterboard - 10 mm,Plaster,m²,5.8,,"Internal wall lining, internal ceiling
+lining","Plasterboard, also known as gypsum board, is a wall and ceiling lining
+material manufactured from gypsum, water and paper. Plasterboard is used to provide a lining for internal walls and ceilings.
+A variety of product types are available, including acoustic-rated, fire-
+rated and moisture-resistant plasterboard. It is typically finished with
+paint once installed. ",
+Concrete roof tile,Tiles,kg,0.39,2100,Roof cladding,"Concrete roof tiles are a roof cladding material manufactured from
+concrete .Concrete roof
+tiles are typically used in domestic construction where the roof pitch
+is at least 15 degrees",
+Double glazing - flat glass,Flat glass,m²,101,,Windows,"The double glazed system is typically used to improve the acoustic or
+thermal performance of a window. The thickness of each glass pane
+generally ranges from 3 to 10 mm and the gas-filled cavity typically
+ranges from 6 to 12 mm",
+Flat glass,Glass,kg,2,2600,"Windows, skylights, internal
+partitions, doors","Flat glass is commonly used in buildings to provide daylight and
+views. It is used for windows, glass doors and transparent walls.",
+Laminated glass,Laminated glass,kg,2.8,2600,"Windows, doors, partitions,
+skylights, ballustrades","Laminated glass is commonly used for windows, glass doors and
+transparent walls, where there is an increased chance of damage, as
+when broken, the glass remains intact, held together by the PVB layer.
+It provides added safety, security, thermal and acoustic properties
+over flat glass. ",
+Double glazing - toughened glass,Toughened glass,m²,115,,"Windows, doors, skylights, internal
+partitions","The double glazed system is typically used to improve the acoustic or
+thermal performance of a window. The thickness of each glass pane
+generally ranges from 3 to 10 mm and the gas-filled cavity typically
+ranges from 6 to 12 mm.
+The same glass thickness is usually used for both panes, but in some
+circumstances the thickness may vary. Laminated or flat glass can also
+be used in place of toughened glass. Toughened glass is used where
+additional strength is required or there is increased risk of damage.
+Various coatings (such as low-e) can also be applied to the glass
+surfaces to improve its thermal, acoustic or privacy characteristics",
+Toughened glass,Toughened glass,kg,2.2,2600,"Windows, doors, partitions,
+skylights, ballustrades, shower
+screens","Toughened glass is commonly used for windows, glass doors,
+balustrades, shower screens and pool fences. It provides added
+safety over flat glass as when broken, the glass shatters into small
+even pieces",
+Cellulose insulation,Cellulose,kg,0.79,50,Insulation,"Cellulose insulation is mostly used in roofs and walls and is typically
+blown.Cellulose is an organic compound that constitutes the primary cell
+wall of green plants and is the most abundant polymer on Earth",Low carbon alternative
+Aluminium foil insulation,insulation,m²,1.9,,Aluminium foil insulation (custom),"Aluminium insulation foils provide a barrier to
+light, infrared radiation and sometimes air, moisture and bacteria,
+depending on perforation and treatment.Aluminium insulation foil is commonly installed in cavities to reflect
+infrared radiation and trap heat inside or outside of a building
+(depending on its placement).",
+Glasswool insulation,insulation,kg,4,25,insulation,"This results in a low density and low thermal
+conductivity (0.04 W/(m·K)), which is ideal for insulation materials/ Glasswool insulation is widely used in the construction industry as an
+insulation material.",
+Rockwool insulation,insulation,kg,3.8,70,insulation,"Rockwool insulation is widely used in the construction industry as
+thermal insulation. It has a high fire resistance depending on the
+constituting material,Rockwool, also called mineral wool, is made by spinning or drawing
+molten rock materials into fibres. The resulting fibrous material has a
+very low density and low thermal conductivity ",
+Polystyrene (EPS/XPS) insulation,Polystyrene,kg,8,23,Insulation,"PS insulation is widely used in the construction industry. EPS is used
+in walls and on roofs that do not require stepping onto. XPS, with
+its increased compressive strengths, can be stepped upon and is
+therefore more common on roofs",
+Polyurethane (PU) rigid foam insulation,Polyurethane,kg,17.5,30,insulation,"Polyurethane (PU) is a polymer with a low density, low thermal
+conductivity and high durability.PU insulation consists of rigid foam panels that are used for high-
+performance insulation.",
+Aluminium bar,Aluminium,kg,29.6,2712,"Finishes, ventilation grilles","Aluminium is commonly used as a construction material, notably as
+cladding, structural and window framing, and as a thermal reflector.
+Aluminium bars are typically extruded and can be used as a finishing
+product (flat bars) and as ventilation grilles. It is durable, corrosion resistant,
+a good reflector of both visible and infrared radiation, and highly
+recyclable",
+Aluminium composite panel,Aluminium,m²,102,1900,Cladding,"Aluminium composite panels are typically used as cladding. The
+panel specified here is 4 mm thick",
+Aluminium extruded,Aluminium,kg,29.4,2712,"Window frames, profiles","Aluminium is commonly used as a construction material, notably as
+cladding, structural and window framing, and as a thermal reflector.
+Extruded aluminium is commonly used for window frames, profiles
+for tracks, frames and rails, and mullions.",
+Aluminium angle extruded,Aluminium,kg,32.7,2712,"Window frames, profiles",Variation of Aluminium extruded,
+Aluminium extruded powdercoated,Aluminium,kg,33.6,2712,"Window frames, profiles",Variation of Aluminium extruded,
+Aluminium sheet,Aluminium,kg,26.7,2712,"Cladding, structural elements,
+tubes, plates","Aluminium is commonly used as a construction material, notably
+as cladding, structural and window framing, and as a thermal
+reflector. Aluminium sheets or plates are used as the base material for
+aluminium cladding, gutters, and structural elements",
+Copper pipe,Copper,kg,10.1,8940,"Gas pipes, coolant pipes, water
+pipes","Copper has multiple uses in construction. Copper pipes are used
+for building services, including for gas and in heating, cooling and
+ventilation systems",
+Copper sheet,Copper,kg,15.1,8940,"Roofing, cladding, gutters,
+antimicrobial finished surfaces","Copper has multiple uses in construction. Copper sheets are often
+used to manufacture roofing, cladding, gutters, antimicrobial finished
+surfaces and others",
+Copper wire,copper,kg,41.8,8940,Electrical cables,"Copper has multiple uses in construction. Copper wires are used in
+the majority of electrical cables",
+Stainless steel wire,Stainless steel,kg,13.9,7740,"tubes,pipes","Steel is commonly used in the construction industry, mainly as a
+structural material. Extruded stainless steel can be used to produce
+a range of tubes for structural and finishing purposes as well as pipes",
+Cold rolled stainless steel,Stainless steel,kg,9.2,7740,"Exterior cladding, handrails, counter
+tops, interior surfaces","Steel is commonly used in the construction industry, mainly as a
+structural material. Cold rolled stainless steel is used to produce a
+range of high-precision corrosion resistant materials",
+Stainless steel extruded,Stainless steel,kg,11.8,7740,"tubes,pipes","Steel is commonly used in the construction industry, mainly as a
+structural material. Extruded stainless steel can be used to produce
+a range of tubes for structural and finishing purposes as well as pipes",
+Stainless steel sheet,Stainless steel,kg,7.2,7740,"High-durability cladding, tubes,
+roofing, kitchen surfaces"," Stainless steel sheets are used to produce a
+range of finishing materials, such as high durability cladding, roofing
+(mainly for airports), and kitchen surfaces",
+Stainless steel sheet products,Stainless steel,kg,14.7,7740,"High-durability cladding, tubes,
+roofing, kitchen surfaces"," Stainless steel sheets are used to produce a
+range of finishing materials, such as high durability cladding, roofing
+(mainly for airports), and kitchen surfaces",
+Cold rolled steel,Steel,kg,3.7,7850,"Truss members, wall and roof
+systems","mainly as a
+structural material. Cold rolled structural steel is used to produce a
+range of more precise structural elements compared to hot rolled
+structural steel. These include structural members for trusses and
+profiles for roof and wall systems",
+Hot rolled galvanised structural steel,Steel,kg,3.3,7850,"Beams, columns","mainly as a
+structural material. Hot rolled galvanised steel is used to produce
+elements for the outdoors, such as poles, pipes, and decking.",
+Hot rolled structural steel,Steel,kg,2.9,7850,"Reinforcement bars, beams, railroad
+tracks","mainly as a
+structural material. Hot rolled structural steel is used to produce a
+range of structural elements, such as reinforcement bars, I-beams and
+railroad tracks",
+Steel hollow section extruded,Steel,kg,4.6,7850,Structural profiles,"Hollow sections of steel are commonly used in the construction
+industry, mainly for structural purposes.",
+Steel bar,Steel,kg,2.1,7850,"Framing, plates"," mainly as a
+structural material. Steel (flat) bars are used as frames and cut and
+welded into steel plates.",
+Steel pipe,Steel,kg,3.5,7850,"Piles, pipes, structural profiles","Steel pipes are often used in pile foundations, plumbing and as
+columns (usually filled with concrete",
+Steel sheet corrugated,Steel,kg,5.5,7850,"Roofing, cladding, separations,
+permanent formwork","Corrugated steel sheets are widely used in the construction industry,
+mainly as roofing, cladding, separations and permanent formwork",
+Asphalt,Asphalt,kg,0.2,2649,"Roads, carparks, pathways, roofs","Asphalt is used mainly as a road construction material, but
+also commonly used for path and carpark surfacing as well as
+waterproofing of roofs",
+Nylon carpet,Carpet,m²,31.2,,Residential and commercial flooring,"Nylon carpet is generally cheaper than wool alternatives. It is stain
+resistant and holds its colour well. High durability and toughness
+make it ideal for use in high-traffic areas",
+"Tufted carpet, nylon - prestige",Carpet,m²,55.3,,Residential and commercial flooring,Variation of nylon carpet,
+"Tufted carpet, nylon - quality",Carpet,m²,33.3,,Residential and commercial flooring,Variation of nylon carpet,
+"Woven carpet, nylon - average",Carpet,m²,23.9,,Residential and commercial flooring,Variation of nylon carpet,
+"Woven carpet, nylon - quality",Carpet,m²,24.8,,Residential and commercial flooring,Variation of nylon carpet,
+Wool carpet,Carpet,m²,41,,Residential and commercial flooring,"Wool carpet is generally more expensive than nylon alternatives. It is
+often blended with nylon to reduce cost of production and increase
+durability and toughness",
+"Tufted carpet, wool - prestige",Carpet,m²,64.2,,Residential and commercial flooring,variation of wool carpet,
+"Tufted carpet, wool - quality",Carpet,m²,49.1,,Residential and commercial flooring,variation of wool carpet,
+Silicone,Other,kg,13.8,960,"Sealant, adhesive, electrical
+insulation, fittings, coatings","In construction, silicone is used as a sealant, adhesive or electrical
+insulation amongst other uses. It is also widely used in manufacturing,
+for production of gaskets, moulds, coatings, caulks, household goods
+and plumbing hardware",
+Water,Other,kg,0.001,1000,"Site preparation, construction
+activities, material additive, solvent","Water is used in significant quantities for construction activities, site
+preparation and as a material additive/solvent. It is also essential for
+all known forms of life on earth.",
+Solvent-based paint - per m²,Paint,m²,0.47,,"Exterior and internal finishes,
+sealant, weatherproofing","Solvent-based paints are cheaper
+and tougher than the water-based alternative, and are commonly
+used in high-traffic areas (although they are more susceptible to UV
+deterioration). They are more abrasion resistant and have a more
+brilliant gloss, with a smooth finish.",
+Water-based paint - per m²,Paint,m²,0.53,,"Exterior and internal finishes,
+sealant, weatherproofing","Water-based paints have several advantages over oil-based
+alternatives. They are excellent for external applications, and have
+high tolerance to UV. They have a low odour, are easy to clean, and
+are less hazardous to dispose of. ",
+Wallpaper - per m²,Wall paper,m²,2.8,,Interior decoration,"Wallpaper is predominantly used for decorative purposes. It varies
+significantly in cost, depending on the production quality and
+materials used.",
+Natural rubber,Rubber,kg,2.5,1100,"Expansion joints, window and
+building seals, flooring, fittings","Rubber is a highly elastic polymer (elastomer) that can be obtained
+naturally, or produced synthetically using oil-based production
+methods",
+Synthetic rubber,Rubber,kg,3.7,1100,"Expansion joints, window and
+building seals, flooring, fittings","In comparison with natural rubber, synthetic rubber is generally
+tolerant to a broader range of temperatures, is resistant to oil and
+grease, and ages well against weathering. Natural rubber is favoured
+for its high performance and low cost, which is not directly tied to the
+price of petroleum",
+HDPE film - 100 μm,High density polyethylene (HDPE),m²,0.6,,Geomembranes,"High-density polyethylene (HDPE) has improved strength and
+durability compared to LDPE. HDPE films are usually used as
+geomembranes",
+HDPE film - 200 μm,High density polyethylene (HDPE),m²,1.2,,Geomembranes,"High-density polyethylene (HDPE) has improved strength and
+durability compared to LDPE. HDPE films are usually used as
+geomembranes",
+High-density polyethylene (HDPE) pipe,High density polyethylene (HDPE),kg,5.6,940,high-pressure pipes,"High-density polyethylene (HDPE) has improved strength and
+durability. HDPE pipes are usually used for high pressure systems and
+are typically larger than LDPE pipes",
+LDPE film - 100 μm,Low density polyethylene (LDPE),m²,0.58,,"Vapour barrier, geomembrane,
+general purpose membrane","Low-density polyethylene (LDPE) is cheaper than HDPE. LDPE films
+are usually used as vapour barriers, geomembranes and as general
+purpose membranes on site",
+LDPE film - 200 μm,Low density polyethylene (LDPE),m²,1.2,,"Vapour barrier, geomembrane,
+general purpose membrane","Low-density polyethylene (LDPE) is cheaper than HDPE. LDPE films
+are usually used as vapour barriers, geomembranes and as general
+purpose membranes on site",
+Low-density polyethylene (LDPE) pipe,Low density polyethylene (LDPE),kg,6,940,Low-pressure pipes,"Low-density polyethylene (LDPE) is generally cheaper than HDPE.
+LDPE pipes are usually used for lower pressure systems and are
+typically smaller than HDPE pipes",
+Nylon 66,Nylon,kg,22.2,1140,"Membrane, rods, tubes, screws,
+washers, spacers, rope","Nylon 66 is mostly used as a sheet in construction, but also in rods,
+tubes, screws, washers, ropes and spacers",
+Acrylonitrile butadiene styrene (ABS),Other polymers,kg,16,1070,"Pipes, fittings, general purpose
+panels","ABS is generally used for pipes and fittings and sometimes for general
+purpose panels within the construction industry",
+Ethylene tetrafluoroethylene (ETFE),Other polymers,kg,798,1700,"Tensile architecture, inflatable
+cushions","Due to its high resistance to the outdoor environment, ETFE is used in
+tensile architecture as a membrane and can also be used in inflated
+cushions.",
+Glass reinforced plastic (GRP),Other polymers,kg,18.8,1350,"Roofing, storage tanks, door and
+window surrounds, piping, cladding","GRP can be used for roofing, storage tanks, door and window
+surrounds, piping and cladding",
+Linoleum,Other polymers,kg,4.4,1200,Flooring,"Linoleum is a composite material used for floor covering or underlay
+that is durable and shock-absorbing.",
+Polycarbonate,Other polymers,kg,14,1200,"Skylights, flat glazing, curved
+glazing, sound walls","Polycarbonate is mostly used in construction to replace glass in
+glazing, for skylights, flat or curved glazing and for sound walls",
+Polymethyl methacrylate (PMMA),Other polymers,kg,15.4,1190,"Skylights, flat glazing, sound walls,
+bathtubs",PMMA is most often used in construction as a substitute to glass.,
+Polypropylene (PP) sheet,Polypropylene,kg,7.4,900,"Vapour barrier, general purpose
+membrane","PP is mostly used in construction as a membrane (including as a
+water vapour membrane)",
+Polyurethane (PU) flexible foam,Polyurethane,kg,7.7,69,Floor underlay,"In construction, flexible PU foam consists of thin flexible foam rolls
+that are typically used as floor underlay",
+Polyvinyl chloride (PVC) film,Polyvinyl chloride (PVC),kg,11.2,1390,"Electrical cable insulation, flooring,
+cladding","PVC film is used in construction for flooring and electrical cable
+insulation.",
+Unplasticised polyvinyl chloride (uPVC),Polyvinyl chloride (PVC),kg,4.2,1390,"Window frames, doors, pipes,
+gutters","uPVC is widely used in the construction industry. Its main uses include
+window frames, doors, pipes, and gutters",
+Clay brick,Brick,kg,0.32,2403,"Cladding, loadbearing walls,
+landscaping, decorative features","Bricks are commonly used for external cladding, loadbearing walls,
+flooring, and other construction elements. Face bricks usually have
+a decorative or smooth finish, while building/common bricks are
+used for internal structure. Bricks can also be hollowed, to reduce the
+volume of the brick and materials needed per unit.",
+Gravel,Other minerals,kg,0.036,1840,"Landscaping, bulk fill, material
+additive","It is commonly used for construction and landscaping purposes,
+including: as a base layer for walkways and roads, as bulk fill, as a
+drainage substrate, or as an aggregate for concrete",
+Recycled aggregate,Other minerals,kg,0.008,1320,"Landscaping, bulk fill, material
+additive","Recycled aggregate is becoming increasingly popular as a
+replacement for natural aggregates. It is commonly used for: bulk fill,
+road construction, gravel, and as an aggregate in concrete. When used
+in concrete, it is typically combined with fly ash or other additives to
+ensure improved strength and reliability.",
+Sand,Other minerals,kg,0.024,1500,"Landscaping, concrete slabs,
+material additive, external finishes","Sand can be used as a substrate for footings, pathways, and concrete
+slabs. It is also used as an additive in concrete, mortar, asphalt, and
+various exterior finishes. It is one of the primary materials used in the
+production of silicon for various construction products",
+Sanitary ceramic,Ceramic,kg,6.4,2700,"Washbasins, toilets, bathroom
+accessories, sanitary ware","Sanitary ceramics are commonly used for washbasins, toilets,
+bathroom accessories and sanitary ware. They are generally more
+expensive than other ceramic products, due to their high-quality
+waterproof and stain resistant finish",
+Dimension stone,Stone,kg,1.3,2243,"Countertops, flooring, walling,
+cladding, interior decoration","Dimension stones are commonly used for bathroom vanities,
+countertops, flooring and cladding. Granite is used for external and
+flooring applications due to its hardness, and ability to withstand
+weathering. Marble and travertine is commonly used for benchtops
+and interior applications",
+Ceramic tile,Tiles,kg,1.3,2900,"Interior and exterior finishes,
+bathrooms, kitchens, flooring,
+walling","Ceramic tiles are used for interior and exterior non-structural
+purposes including flooring, cladding and decorative elements. They
+are commonly used in kitchens, bathrooms and wet areas",
+Clay roof tile,Ceramic,kg,0.61,1860,Roof cladding,"Clay roof tiles are available in a wide range of shapes and sizes,
+including specific regional styles which are influenced by roof pitch,
+weather conditions, availability of raw materials and aesthetic
+qualities.",
+Cork slab,Cork,kg,9.5,120,"Insulation, floor tiles, wall tiles,
+exterior cladding, floor finish,
+benchtops","Cork slab products are typically available as rolls up to 25 m long, as
+600 or 900 mm wide sheets and 300 or 600 mm square tiles",
+Hardwood,Hardwood,m³,944,,"Beams, columns, framing, joinery,
+flooring, walling, furniture, cladding,
+doors, windows","Hardwood is generally more dense and durable than softwood
+varieties, with better longevity. Some hardwoods are naturally
+resistant to termites and pests and more fire resistant. It is commonly
+used for high traffic areas, quality furnishings and interior joinery,
+structural members, cladding and flooring",
+Hardwood kiln-dried - dressed,Hardwood,m³,2269,,"flooring, walling, furniture, cladding,
+doors, windows",variations of hardwood - dressed,
+Hardwood kiln-dried - structural,Hardwood,m³,1178,,"Beams, columns, framing, joinery,
+flooring, ",variations of hardwood- for structural uses,
+Cross laminated timber (CLT),Manufactured timber product,m³,645,,"Flooring and walling system,
+structural panels, timber sheets","CLT has different structural capabilities when compared with
+conventional timber, and acts as a sheet product, rather than
+a framing product. It can be used as a complete floor, wall or roof
+system, without the need for additional supporting members",
+Glued laminated timber (glulam),Manufactured timber product,m³,1718,,"Structural members, columns,
+rafters, trusses, curved beams","Glulam can be used for long structural members, which exceed the
+capabilities of standard timber. It is also used for columns, rafters,
+trusses and curved beams",
+Glulam outdoor,Manufactured timber product,m³,1605,,"Structural members, columns,
+rafters, trusses, curved beams","Variations of Glulam, for outdoor uses",
+Laminated veneer lumber (LVL),Manufactured timber product,m³,1059,,"Long spanning structural members,
+lintels, beams, purlins, trusses","LVL members are excellent for long spanning structural purposes, and
+are commonly used for lintels, beams, purlins and trusses.",
+MDF sheet,Manufactured timber product,m³,899,,"Interior joinery, walling, flooring","MDF is commonly used for joinery and interior purposes. Depending
+on the resin used, it can have a moderate resistance to water, and is
+generally not suited to exterior applications",
+OSB sheet,Manufactured timber product,m³,751,,"Timber sheets, walling, roofing","OSB boards are commonly used as an alternative for plywood sheet
+products",
+Particleboard,Manufactured timber product,m³,696,,"Interior joinery, walling, flooring","Particleboard is commonly used for low cost joinery and dry area
+construction. It is often painted, or covered with a timber veneer
+or melamine coating to increase water resistance, durability and
+aesthetic qualities",
+Particleboard outdoor,Manufactured timber product,m³,813,,outdoor walling flooring,"variations of particleboard, but for outdoor uses",
+Plywood,Manufactured timber product,m³,3680,,"Timber sheets, interior joinery,
+walling, flooring, formwork,
+furniture, cladding","Plywood is available in a variety of grades, and timber species. These
+include high grade interior plywood, formply, exterior/marine grade
+plywood, and structural plywood",
+Plywood outdoor,Manufactured timber product,m³,1777,,"Timber sheets, interior joinery,
+walling, flooring, formwork,
+furniture, cladding","variations of plywood, outdoor uses",
+Structural insulated panel (SIP),Manufactured timber product,m²,135,,"Floor structure, external walls,
+internal walls, roof structure","SIPs can be used as wall or roof panels and are mainly used in
+domestic construction",
+Softwood,Softwood,m³,549,,"Beams, columns, framing, joinery,
+flooring, walling, furniture, cladding,
+doors, windows","Softwood generally has a lower density and better workability than
+hardwood varieties. It is comparably cheap due to the fast growing
+nature of many softwood plantation varieties. It is widely used for
+timber framing purposes, feature walls, door and windows.",
+Softwood kiln-dried,Softwood,m³,583,,"Beams, columns, framing, joinery,
+flooring, walling, furniture, cladding,
+doors, windows",variations of softwood,
