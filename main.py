@@ -3,7 +3,7 @@ import openai
 
 
 # Replace FINE_TUNED_MODEL with the name of your fine-tuned model
-model_name = "davinci:ft-personal-2023-07-12-08-33-05"
+model_name = "davinci:ft-personal-2023-07-19-04-29-51"
 
 
 def on_submit():
