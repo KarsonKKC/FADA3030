@@ -1,0 +1,149 @@
+,Name,1st_Most_Similar_Material,2nd_Most_Similar_Material,1st_Similarity_Score,2nd_Similarity_Score
+0,Default,"Woven carpet, nylon - average",Aluminium extruded powdercoated,0.7489747831715465,0.7454909617048826
+1,Default Wall,Wallpaper - per m²,Particleboard outdoor,0.7714489322860942,0.7586757824155654
+2,Default Roof,Clay roof tile,Concrete roof tile,0.8202043780890467,0.8114701772922218
+3,COX - G - Glass,Toughened glass,Glass reinforced plastic (GRP),0.7924784394533376,0.7897678778282894
+4,Phase-Demo,Concrete 32 MPa,"Tufted carpet, wool - prestige",0.7401620448141153,0.7397766321607457
+5,Phase-Exist,"Tufted carpet, wool - prestige",Aluminium extruded powdercoated,0.7194584969715231,0.7192650707123447
+6,Phase-Temp,Ethylene tetrafluoroethylene (ETFE),Polypropylene (PP) sheet,0.7607461300377772,0.7476695787255703
+7,COX - BK - Brick,Clay brick,Hardwood kiln-dried - dressed,0.7560661143516407,0.7521829014129483
+8,COX - CB - Concrete Block,Concrete block,Concrete 40 MPa,0.8349219676714643,0.7947464812608117
+9,Metal - Stud Layer,Stainless steel sheet,Stainless steel sheet products,0.7991463873768403,0.7953504628455067
+10,COX - PLY - Plywood,Plywood outdoor,Plywood,0.8474820952866424,0.8454422598202835
+11,Cavity Air Layers - Air Space,Autoclaved aerated concrete (AAC),Double glazing - flat glass,0.7795237808212614,0.7772033706518802
+12,Vapour / Moisture Barriers - Vapour Retarder,Polypropylene (PP) sheet,LDPE film - 100 μm,0.810763500565809,0.7906811476491424
+13,Vapour / Moisture Barriers - Damp-Proofing,Polypropylene (PP) sheet,Water-based paint - per m²,0.8050096825013002,0.7888996444306027
+14,COX - PB - Plasterboard,Plasterboard - 10 mm,Fibre cement sheet,0.8065809651363111,0.7901158876124267
+15,COX - INS - Insulation - Thermal or Acoustic,Structural insulated panel (SIP),Cork slab,0.7981890199675241,0.7968863524506663
+16,Site - Earth,Water,Clay roof tile,0.7912045991190895,0.750144331209135
+17,Site - Grass,Gravel,Water,0.7785164746806362,0.7766408645587439
+18,COX - BIT - Bitumen,Asphalt,Clay roof tile,0.805277221712491,0.7591222822903576
+19,Site - Sand,Sand,Water,0.8283238240634868,0.7854634223705121
+20,COX - CONC  - Concrete,Concrete 25 MPa,Concrete 20 Mpa,0.81428432025848,0.8111435426192473
+21,COX - GB - Glass Blockwork,Concrete block,Double glazing - flat glass,0.7942514328963042,0.7928050578473709
+22,COX - ST - Stone,Dimension stone,"Tufted carpet, wool - prestige",0.7616423724625202,0.7295959116570758
+23,Metal - Panel,Aluminium composite panel,Steel bar,0.8211413432528398,0.8019438837854819
+24,COX - SS - Stainless Steel,Cold rolled stainless steel,Stainless steel sheet,0.8079609141627196,0.8033512171236084
+25,COX - MC - Metal Cladding,Steel sheet corrugated,Copper sheet,0.8008222418670793,0.7982468769959062
+26,Metal - Sheet / Flashing,Steel sheet corrugated,Copper sheet,0.8299927737912296,0.829132220340615
+27,Roofing - Metal,Steel sheet corrugated,Copper sheet,0.8356714010426399,0.8247185698729858
+28,COX - MS- Mild Steel,Cold rolled stainless steel,Steel sheet corrugated,0.787008135384708,0.7824182759357801
+29,COX - TM - Timber,Cross laminated timber (CLT),Plywood outdoor,0.783531758058885,0.7730175664416208
+30,COX - PC - Precast Concrete,Concrete 40 MPa,Concrete 32 MPa,0.8034247022726075,0.8009670683436614
+31,COX - MDF - Medium Density Fibreboard,MDF sheet,Particleboard outdoor,0.8582599198762009,0.8197316885226051
+32,Metal - Copper,Copper sheet,Copper wire,0.8504357655055268,0.8498399130649678
+33,Default Floor,Polyurethane (PU) flexible foam,"Tufted carpet, wool - prestige",0.775592379503425,0.7743894441519446
+34,Structure - Timber Joist/Rafter Layer,Glued laminated timber (glulam),Laminated veneer lumber (LVL),0.8213498712816861,0.8193078451120468
+35,Roofing - EPDM Membrane,Polypropylene (PP) sheet,Glass reinforced plastic (GRP),0.8120989849632616,0.8083879228002393
+36,COX - VS - Vinyl Sheeting,Polyvinyl chloride (PVC) film,Copper sheet,0.7879608587013813,0.7700372574532193
+37,COX - CTF - Ceramic Tile Floor 200mm,Cork slab,Ceramic tile,0.8162859122590909,0.8076400896070459
+38,COX - CEA - Concrete - Exposed Aggregate Finish,Concrete 25 MPa,Concrete roof tile,0.7863257665203817,0.780152800113914
+39,Roofing - Asphalt,Asphalt,Clay roof tile,0.8680418284563833,0.8172616908280739
+40,Structure - Precast Concrete Beams,Concrete 40 MPa,Concrete 50 MPa,0.866638685503241,0.8596907628719075
+41,Site - Hardcore,Hardwood kiln-dried - dressed,Hardwood,0.7776479839244241,0.7617575997278832
+42,Roofing - Felt,Clay roof tile,Concrete roof tile,0.8177452138467701,0.8094983280958394
+43,COX - EGC - Exposed Grid Ceiling 600 x 600mm,Cork slab,Aluminium extruded powdercoated,0.7801095247610557,0.765284158386158
+44,Phase-New,"Tufted carpet, nylon - prestige","Tufted carpet, wool - prestige",0.7585665074803327,0.7537508299985469
+45,Site - Water,Water,Water-based paint - per m²,0.8366824256771591,0.7695874918872698
+46,Door - Panel,Aluminium composite panel,Structural insulated panel (SIP),0.7956894006572485,0.79433083178799
+47,COX - LAM - Laminate,Cross laminated timber (CLT),Linoleum,0.8012309121260649,0.7935047421998894
+48,COX - CP - Chrome Plated,Cold rolled stainless steel,Copper pipe,0.7702157667440817,0.7662076475241596
+49,Parking Stripe,"Tufted carpet, wool - prestige",Asphalt,0.7503591473205704,0.7469002354833514
+50,Door - Handle,Aluminium angle extruded,Aluminium extruded powdercoated,0.7826572203805708,0.7786565221798953
+51,COX - CR - Cement Render,Portland cement,Cement mortar,0.7891630445242956,0.7811897978056866
+52,COX - CPT - Carpet,"Tufted carpet, wool - prestige","Tufted carpet, wool - quality",0.8012154956191491,0.7989049894162585
+53,Door - Frame,Aluminium extruded powdercoated,Aluminium angle extruded,0.8134040533094451,0.808096047823026
+54,Door - Frame/Mullion,Aluminium angle extruded,Aluminium extruded powdercoated,0.8137102254229283,0.8131730235419501
+55,Default Mass,Concrete 50 MPa,Concrete 25 MPa,0.747389860761793,0.7464645076677361
+56,Default Floor Area Face,Concrete 25 MPa,Concrete 32 MPa,0.7791764423365033,0.777912733878289
+57,COX - MRD - Metal Roof Sheet,Steel sheet corrugated,Copper sheet,0.8201304729744239,0.8015915517428208
+58,Glass,Toughened glass,Flat glass,0.8439920604275478,0.838951742291167
+59,Default Light Source,Flat glass,Polymethyl methacrylate (PMMA),0.7564127812378809,0.747907010691089
+60,Carbon Steel,Cold rolled stainless steel,Steel bar,0.843920255218052,0.8360236572562282
+61,Copper,Copper wire,Copper sheet,0.8452130574938219,0.838694710509138
+62,Ductile Iron,Steel pipe,Hot rolled structural steel,0.7956305023755822,0.7887760030228494
+63,Plastic,Unplasticised polyvinyl chloride (uPVC),Glass reinforced plastic (GRP),0.8288517628867537,0.8251555839474389
+64,Stainless Steel,Cold rolled stainless steel,Stainless steel extruded,0.8660155785711027,0.8635329767458892
+65,Concrete - Cast In Situ,Concrete 32 MPa,Concrete 40 MPa,0.8339746554048113,0.8314103265828121
+66,Generic,"Woven carpet, nylon - average","Tufted carpet, nylon - quality",0.7710367940445875,0.7696840610546892
+67,Metal-Stainless Steel-Polished,Cold rolled stainless steel,Stainless steel extruded,0.8425516718412118,0.8358791495752377
+68,Metal-Aluminium-Anodised-Clear,Aluminium extruded powdercoated,Aluminium angle extruded,0.8420253142296923,0.8279943345405802
+69,Glass-Float-Clear,Flat glass,Toughened glass,0.8186827187420875,0.8154315858518618
+70,Metal-Louvres-Coarse-Door,Aluminium extruded powdercoated,Aluminium angle extruded,0.804233615335366,0.7910419592633271
+71,Clearance,Hardwood kiln-dried - dressed,Cross laminated timber (CLT),0.7678560439155688,0.7601253341723028
+72,Metal-Stainless Steel-Brushed,Cold rolled stainless steel,Stainless steel sheet,0.8360467352923225,0.8252691292234154
+73,Metal-Steel-Mill Finish,Cold rolled stainless steel,Stainless steel sheet,0.8331530201138702,0.821236387892179
+74,Wood-Western Red Cedar-Gloss,Hardwood kiln-dried - dressed,Softwood kiln-dried,0.8280358497455658,0.8086644799262526
+75,Metal-Stainless Steel-Satin,Cold rolled stainless steel,Stainless steel sheet,0.8426415132244447,0.8382991468168646
+76,Asphalt-Matt Paint-White,Asphalt,Solvent-based paint - per m²,0.8333536301714214,0.823724883956819
+77,Concrete-Insitu-32MPa-Natural,Concrete 32 MPa,Concrete 40 MPa,0.8714407740714499,0.8558318198157755
+78,Metal-Steel-450MPa,Concrete 40 MPa,Concrete 50 MPa,0.8163008383549168,0.8148339298056222
+79,Metal-Steel-390MPa,Concrete 40 MPa,Concrete 50 MPa,0.813543306453678,0.802384116923673
+80,COX - PBMR - Plasterboard MR,Plasterboard - 10 mm,Fibre cement sheet,0.8079094508707871,0.7895878396848108
+81,Steel,Steel bar,Steel pipe,0.8245866095268369,0.8183170493733516
+82,Metal-Aluminium,Aluminium sheet,Aluminium extruded powdercoated,0.8435969879638409,0.8418242835277133
+83,Metal-Steel-Stainless,Cold rolled stainless steel,Stainless steel extruded,0.8525160024327754,0.846967124256919
+84,Poche,"Tufted carpet, wool - prestige","Tufted carpet, nylon - prestige",0.7428650879687013,0.7379409612474427
+85,Clearance-Circulation Space,Double glazing - flat glass,Cork slab,0.7370507352000559,0.7365100726006817
+86,Metal-Steel,Steel bar,Cold rolled stainless steel,0.83448742163471,0.829124146352659
+87,Plastic-Polypropylene-Green,Polypropylene (PP) sheet,Glass reinforced plastic (GRP),0.8454045995764803,0.8323374678591271
+88,Ceramic-Gloss-White,Ceramic tile,Sanitary ceramic,0.826396800133036,0.8195183748367676
+89,Metal-Steel-Stainless-Polished,Cold rolled stainless steel,Stainless steel extruded,0.8463234924833738,0.840079295494054
+90,Wood-Oak-White-Semi Gloss,Hardwood kiln-dried - dressed,Softwood kiln-dried,0.8269666446178564,0.804001492356699
+91,Plastic-Black,Glass reinforced plastic (GRP),Unplasticised polyvinyl chloride (uPVC),0.8057015906340884,0.7983909816891192
+92,COX - FC - External Fibre Cement - 1200x2400,Fibre cement sheet,Fibre cement weatherboard,0.8286954631000241,0.8257124862820256
+93,Plastic-Rubber-Black,Natural rubber,Synthetic rubber,0.826623240886136,0.8204569171883109
+94,Metal - Aluminium,Aluminium sheet,Aluminium angle extruded,0.849261131046946,0.8443848543756688
+95,Phase - Demo,Particleboard outdoor,Concrete 32 MPa,0.738488231611603,0.7370374092362479
+96,Phase - Exist,"Tufted carpet, wool - prestige",Aluminium extruded powdercoated,0.7194429454431781,0.7178152470961455
+97,Phase - Temporary,Steel sheet corrugated,Particleboard outdoor,0.7380213804210463,0.7377957884744487
+98,Porcelain-White-Caroma,Sanitary ceramic,"Tufted carpet, wool - prestige",0.800091602501508,0.795662980206594
+99,Metal-Chrome-Caroma,Cold rolled stainless steel,Stainless steel sheet,0.7829976282006168,0.7796779981659614
+100,Porcelain-Sorrento Blue-Caroma,Sanitary ceramic,"Tufted carpet, wool - prestige",0.8011462804666218,0.7912940426653415
+101,Metal-Stainless Steel-Generic-Polished,Cold rolled stainless steel,Stainless steel extruded,0.8424286782632333,0.8359371943889427
+102,Plastic-Transparent-Black,Polymethyl methacrylate (PMMA),Glass reinforced plastic (GRP),0.8117903495900602,0.8113812410729287
+103,Glass-Frosted-White,Flat glass,Toughened glass,0.8212600770582801,0.8194126001713835
+104,Metal-Steel-Galvanised,Hot rolled galvanised structural steel,Steel sheet corrugated,0.8626609468860881,0.8306616543066572
+105,Metal-Steel-350MPa,Concrete 50 MPa,Concrete 40 MPa,0.8185351675279582,0.815974291343935
+106,COX - Glass CLEAR,Flat glass,Toughened glass,0.7802770313550496,0.7784071090101222
+107,P2,Polypropylene (PP) sheet,Aluminium extruded powdercoated,0.7575930108569978,0.7512576056971565
+108,P1,Polypropylene (PP) sheet,"Tufted carpet, wool - prestige",0.7677691546499639,0.7608651862170341
+109,SSB,OSB sheet,Structural insulated panel (SIP),0.7487817992802139,0.7437330715764449
+110,GLCL1,Glass reinforced plastic (GRP),Glulam outdoor,0.7707217349772594,0.7651719475007983
+111,ALAZ1,Aluminium angle extruded,Aluminium extruded powdercoated,0.7538357434637237,0.7518833807131462
+112,TMBR1,"Tufted carpet, nylon - prestige","Tufted carpet, nylon - quality",0.7473374365264849,0.7471240604507612
+113,Render Material 255-255-255,Aluminium extruded powdercoated,Water-based paint - per m²,0.7675935166462352,0.7641157228144322
+114,Glass Clear White (Cox),Flat glass,Toughened glass,0.7823342220797023,0.7760990267842641
+115,Aluminium Satin (Cox),Aluminium extruded powdercoated,Aluminium angle extruded,0.8071413738434122,0.8005882602938754
+116,System-Zones,Double glazing - flat glass,Structural insulated panel (SIP),0.7502038513302274,0.7380912202812776
+117,Analytical Spaces,"Tufted carpet, wool - prestige","Woven carpet, nylon - average",0.7380455746043808,0.7361289005932444
+118,Analytical Surface - Exterior Walls,Solvent-based paint - per m²,Water-based paint - per m²,0.80069438063158,0.7992945005980805
+119,Analytical Surface - Roofs,Clay roof tile,Concrete roof tile,0.807356197495551,0.8017632211487542
+120,Analytical Surface - Slabs on Grade,Concrete 32 MPa,Concrete 25 MPa,0.8016321813944322,0.7949527861626368
+121,Analytical Surface - Interior Walls,Ceramic tile,Structural insulated panel (SIP),0.7909607146295549,0.7829375772359406
+122,Analytical Surface - Interior Floors,Ceramic tile,"Woven carpet, nylon - average",0.8031590026968811,0.7895594338908123
+123,Analytical Surface - Ceilings,Ceramic tile,Plasterboard - 10 mm,0.7837254044873624,0.7809399310792753
+124,Analytical Surface - Air Surfaces,Solvent-based paint - per m²,"Woven carpet, nylon - average",0.7588490959269265,0.7583787425834264
+125,Analytical Surface - Underground Walls,Concrete 32 MPa,Concrete 40 MPa,0.7834536878121667,0.7754356499923121
+126,Analytical Surface - Operable Windows,Double glazing - flat glass,Flat glass,0.7937116643323956,0.7902819004166746
+127,Analytical Surface - Operable Skylights,Flat glass,Polycarbonate,0.8069673376500839,0.793169151860037
+128,Analytical Surface - Sliding Doors,Flat glass,Laminated glass,0.7934925228068507,0.7931126441114424
+129,Analytical Surface - Air Openings,Double glazing - flat glass,Flat glass,0.7692166065214631,0.7649767232404884
+130,Analytical Surface - Shades,Aluminium extruded powdercoated,Flat glass,0.7750395509828802,0.7737821677572537
+131,Fibre Cement (Cox),Fibre cement sheet,Fibre cement weatherboard,0.8410869251107607,0.8385537805708867
+132,Glass (Cox),Flat glass,Toughened glass,0.8033208183789248,0.7970514922914045
+133,Furring Channel (Cox),Fibre cement sheet,Fibre cement weatherboard,0.7702040704906847,0.767550794609291
+134,Generic Wall (Cox),Particleboard outdoor,Fibre cement weatherboard,0.7701581291466717,0.7682786556981684
+135,Concrete (Cox),Concrete block,Concrete roof tile,0.7728964849001709,0.7698457686803515
+136,Blockwork (Cox),Concrete block,Clay brick,0.7959245612501671,0.7636386352527448
+137,Concrete Precast (Cox),Concrete block,Concrete 20 Mpa,0.7997206971742137,0.7945096068467279
+138,Metal Stud (Cox),Steel bar,Cold rolled stainless steel,0.7785675611712495,0.7762712536678055
+139,Plasterboard (Cox),Plasterboard - 10 mm,Gypsum plaster,0.8523046751746046,0.8184175583288554
+140,Fence Chainwire (Cox),Copper wire,Polyvinyl chloride (PVC) film,0.7764133880773288,0.7548668479962984
+141,Fence Timber (Cox),Particleboard outdoor,Cross laminated timber (CLT),0.8062638175817249,0.799702894721936
+142,Tiles 100 x 100 (Cox),Cork slab,Ceramic tile,0.7908636557975821,0.7857440654850671
+143,Paint Matte White (Cox),Water-based paint - per m²,Solvent-based paint - per m²,0.781393759681172,0.7750559018595434
+144,Plasterboard Fire Rated (Cox),Plasterboard - 10 mm,Fibre cement weatherboard,0.8194246603213158,0.8062312741665516
+145,Plasterboard Acoustic Rated (Cox),Plasterboard - 10 mm,Fibre cement weatherboard,0.8186815628859254,0.7893706022123128
+146,Electrical Load Zones,Copper wire,Polyvinyl chloride (PVC) film,0.7650626689939704,0.7421744456442019
+147,Asphalt Paint Matte White (Cox),Asphalt,Solvent-based paint - per m²,0.8089317707084306,0.7955695818915536
