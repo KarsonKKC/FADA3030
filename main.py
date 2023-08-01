@@ -3,7 +3,7 @@ import openai
 
 
 # Replace FINE_TUNED_MODEL with the name of your fine-tuned model
-model_name = "davinci:ft-personal-2023-07-12-08-33-05"
+model_name = "davinci:ft-personal-2023-08-01-13-10-00"
 
 
 def on_submit():
@@ -12,7 +12,7 @@ def on_submit():
 
 
    # Make the completion request
-   completion = openai.Completion.create(model=model_name, prompt=prompt, max_tokens=1)
+   completion = openai.Completion.create(model=model_name, prompt=prompt, max_tokens=20)
 
 
    # Clear the input field
